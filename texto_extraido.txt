@@ -1,0 +1,1610 @@
+   Enfoques
+ISSN: 1514-6006
+secinves@uapar.edu
+Universidad Adventista del Plata
+Argentina
+Daros, William R.
+¿Qué es un marco teórico?
+Enfoques, vol. XIV, núm. 1, enero-diciembre, 2002, pp. 73-112
+Universidad Adventista del Plata
+Libertador San Martín, Argentina
+ 
+Disponible en: http://www.redalyc.org/articulo.oa?id=25914108
+   Cómo citar el artículo
+   Número completo
+   Más información del artículo
+   Página de la revista en redalyc.org
+ 
+Sistema de Información Científica
+Red de Revistas Científicas de América Latina, el Caribe, España y Portugal
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+  
+  
+ 
+
+ 
+¿Qué es un marco teórico? 
+William R. Daros 
+“Una buena investigación no es tan to una cuestión  
+de buenos métodos como de buen ra zonamiento”.1
+Resu men 
+El autor parte de la idea de que la cien cia es  una construcción humana de una forma 
+humana de conocer. Una carac terística de es ta forma de conoc er se halla en precisar un  
+proceso de  investigación. En c onsecuencia, pr esenta la importancia que debe poseer  el 
+marco teórico en una investigac ión. Encuadra el concepto de pr oblema en el concepto de 
+teoría. Aclara el concepto de marco teór ico por oposición al concepto de marco  
+conceptual (que  pretende presc indir de un marco teórico). Explicit a las funciones del 
+marco teórico. Analiza l a estruc tura y l a jerarq uía epistemológica  de una teoría  y la función  
+de la  inducc ión y de la invención en el conte xto de  una definición de cien cia. Hac e 
+mención a los d iversos criterios de validación y de caducidad de las teorías, según Popper, 
+Kuhn, Lakatos y Feyerabend. Fi nalmente da dive rsos ejemplo s de teorías y de  cómo se han  
+construido. 
+Palabras clave :  marco teórico – epistemología – investigación – conocimiento científico  
+– marco conce ptual 
+Summa ry 
+The author starts from the not ion that scie nce is a human construction coming from a 
+human way of knowing. O ne feature of this  way of knowin g is found in defining a 
+research proce ss. Therefore, he  presents th e importance of the theoretical framework in  
+such process. T he author also fr ames the con cept of problem within the concept of theory 
+and clarifies the  concept of the oretical fr amework as opposed to a conceptual framewor k 
+(which aspires t o do without  the theoretical fr amework). Its functions are ex plicitly stated,  
+and the epistemological structure and rank of  a theory is analyzed, together with the 
+function of induction and inve ntion within th e contex t of a definition of science. The  
+various criteria f or deciding on the theories v alidity and loss of it  are mentioned, according 
+to Popper, Kuhn, Lakatos, and Feyerabend. Fin ally, examples ar e given as regards theories 
+and the way they were built. 
+Key words : theoretical framew ork – epistemology – research – scientific knowledge – 
+conceptual framework 
+ 
+                                                 
+1 Robert Stake, La inv estigación con estudios de casos (Madrid: Mo rata, 1999), 28.
+Enfoques XIV, Nros. 1 y 2 (2 002): 73-112   73 
+
+WILLIAM  R. D AROS   
+Résu mé 
+L’aute ur commence avec l’idée  de que la scie nce est une faç on humaine d’arriver à la 
+connaissance. U ne des caractéri stiques de cette façon de connaî tre est la reche rche. Mais 
+pour recherc her il faut avoir un encadrement th éorique. L’idée de problème e st au dedan s 
+de l’idée de thé orie. Il établit la différe nce entre encadrement théorique et en cadrement 
+conceptuel (qui a la prétention d e laisser de cô té l’encadrement théorique ). On e xplique les  
+fonctions de  l’ancadrement théorique. On analyse la st ructure et la hiérarchie 
+épistémologique  d’une théorie, et la fonction de l’induction et l’invention dans le contex te 
+d’une définition de science. On mentionne les critères de validation et de caducité des  
+théories selon  Popper,  Kuhn, Lakatos et F eyerabend. O n finit pour prés entar plusieurs  
+exemples de thé ories, et  comme nt elles ont été  construites. 
+Mots clefs: Encadrement th éorique – épistémologie – r echerche –  connaissance 
+scientifique – encadrement conc eptuel 
+EL PROBL EMA EN EL  CON TEXTO DEL  PROCES O DE INVESTIGACIÓN  
+Partir emos de  un en foque epistemológico construc tivist a y afirm ando 
+—asever ación que luego acl araremos— que cuando hablam os de la “cien cia” 
+entendemos una for ma humana de con ocer, c onstrui da por los h ombres c on 
+la fin alidad de ob tener, mediant e un proceso de inv estigación, al me nos, un a 
+explic ación vá lida par a algunos pr oblemas. 
+“Investig ar” significa in vestigia i re, esto es, ir tras los vestigios o 
+huellas: inves tiga quien ve las huellas pero no a quien las realiza, y las sigue 
+para llegar al causa nte de e sas huell as. En su núcl eo, una i nvestig ación es un a 
+cuestión de buen razonami ento: im plica el deseo y el i ntento de pensar con  
+coherencia  entre los hechos iniciales, las hipótesis o teorías y las  
+consecuencias de las mism as (e n un a investigaci ón teórica ); de actuar con 
+coherencia  entre l os problemas ini ciales, las acci ones planificadas y los 
+resultados de las mismas (en una i nvestigación práctica); y de prod ucir c on 
+coherencia  entre el cos to y el ben eficio (en una investi gación tecnológica ).  
+Una inv estigación supone una inquiet ud o curiosidad  insatisf echa, 
+dado que lo que sucede aparece como problemático y carece de ex plicación o 
+de solució n. Dich o en otras pala bras, s ólo ante un problema nos ponemos a 
+investig ar, y esta investig ación se convie rte en científica cuando se atiene a 
+ciertas pautas que le  dan precisió n termi nológica, conceptual, metodológic a. 
+Quien no tiene problema, o no se hace problema, no tiene motivo para 
+investig ar. 
+Los pr oblemas se pueden cl asific ar de disti ntas maneras. 
+Probl emático (en grieg o, “problema”  significa “l o lanzado delan te”) es lo que  
+dificulta el av anzar: a) en una c omprensión (nos hallamos ante un problema 
+ Enfoques XIV, 1 y 2 (2002): 73-112  74
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+desde el punto de vista de l conocimi ento, en que l os datos o f enóme nos 
+aparecen desc onectados, y exigen —al menos— un a descripci ón coherente); 
+b) en una ex plicaci ón (nos halla mos a nte un problema respecto del ser de las 
+cosas,  porque  si bi en conoc emos el efecto ignoramos la causa o viceversa);  o 
+c) en la re alización o funci onami ento de a lgo (un problema té cnico).  
+Un pr oblema se car acteriza por generar u na dificul tad que puede ser : 
+(a) Psic ológica,  dificultad desde el punt o de vista del  sujeto, pues éste c arece 
+de con ocimientos previos necesarios pa ra en tende r el probl ema. (b) Lógica , 
+una dificultad  desde el punt o de vista de una car encia de coher encia en el 
+objeto es tudiado. La o peración 2 + 2 = 5 es incohe rente, inadecuada,  
+contradic toria en sus conc eptos, pues e l conc epto de cinc o no e s igual al  
+concepto de 2 + 2. (c) Re al, dificultad pro pia de alg o que no fun ciona en la  
+realidad, no sólo en la mente del sujeto o en la coherencia  conceptual.  
+Pero ade más, com o la rea lidad es  plurifacé tica y es estudiada p or 
+diversas cie ncias o saber es, apar ecen pr oblemas  clasific ables según esos 
+diversos sab eres: problemas  filosófi cos, problemas propios de l a física, de l a 
+química, de l as relaci ones humanas, de l as relaci ones labor ales, de l a nutrici ón, 
+etc. 
+El pr oblema cuestio na, pone la pregu nta acerca de una c ausa, de un 
+efecto, acerc a de una parte (por ejemplo, una conducta) y cómo ésta s e incluy e 
+en una t otalidad (por ej emplo, la tradici ón en la que se ejerce la c onducta). E l 
+problem a, al ser una r eal o apar ente contr adicción entre  lo que  sucede  y lo que 
+se esperaba que sucediera,  incluye,  en esta esperanza, una cierta ide a de lo que  
+deberí a suced er; in cluye u na teoría o interpretación previa. Cua ndo se expli cita 
+una te oría, tambié n se ex plicita l o que el científic o supone que de bería suceder 
+(hipótesis); m as com o esta suposició n puede ser verdadera o fals a, se requiere  
+de un a validació n, prueba o refut ación de lo supuesto (o hipótesis) . Por ello, 
+urge realizar un diseño  metodológi co para constatar qué  valo r pos ee la 
+hipótesis y fi nalmente llevar a la pr áctica lo diseñado . 
+Quedan,  de e ste modo, estable cidas las  fases ge nerales de un proces o 
+de investig ación: 
+1. El pr oblema: su delimitación y  los objeti vos pr ecisos que el ci entífi co se 
+propone. Const ituye el in icio de una inv estigación.   
+2. El ma rco teórico: las ideas ( teorías e hipótesis) con las cuales 
+supuestam ente el pro blema adquiere  un sentido.  El marco teórico 
+consis te en asumir una  teoría que sirv a de marco de referencia a todo el 
+Enfoques XIV, 1 y 2 (2002): 73-112 75
+
+WILLIAM  R. D AROS   
+proceso de i nvestig ación, enlazando el  pro blema con la metodología 
+propuesta y empleada para buscarl e una s olució n. 
+3. El diseñ o metodol ógico: métodos, recursos y planificación de tiempos; 
+con l os cuale s el cientí fico proc ederá a verifica r o re futar las t eorías e 
+hipótesis sustentadas. 
+4. La reali zación de lo pl anificado, i nforme de los result ados alc anzados y 
+nuevos p roblemas. 
+Con fre cuencia, los que se  inician en la investig ación no adviert en la 
+existe ncia e i mportancia de una te oría. Por ot ra parte, no t odos r ealizan un a 
+investig ación ante un problema: con frecuen cia, sim plemente buscan una 
+solución para su caso. Las  ideas supu estas quedan entonc es sin ex presarse y 
+los o peradore s pasa n rápidamente del p roblema a algún mé todo para su 
+solución. 
+Problema Técnica práctica para resolverlo Solución de este caso 
+Ante u n caso de desemple o, por eje mplo, el desempl eado busca e n el 
+diario o e n consult oras la  solución a s u probl ema; pero un soci ólogo se 
+interesa por buscar las c ausas de los desemple os, por proyectarlos, po r 
+preve nir problemas futur os más com plejos. Ant e un a ument o de pr ecios, la s 
+amas  de c asa busca n otros luga res con pre cios inferiores; pero un economista  
+se inte resa por una te oría acerca del fu ncionamie nto y l a causa de los preci os. 
+Problema Marco teórico Diseño metodológico Solución para muchos 
+casos 
+La fal ta de ex plicit ación de la teoría (que, aunque es tá presente, qued a 
+ocult a) hace perder efi cacia al pro ceso de investiga ción; n o permite llegar a 
+conoci mientos gene rales (princi pios, l eyes, axiomas) con lo s cual es se podrí a 
+proceder más  rápidam ente ante o tros pro blemas semejantes. Qu ien, p or 
+ejemplo, conoce  el principio de  inerci a, pu ede anticipar  el surgimiento d e 
+problem as y preparar soluci ones e n muc hos casos par ticulares. Quie n viaja en 
+un auto móvil  a alta vel ocidad sabe que, por el p rincipio de inerci a, cada ve z 
+que el conductor  frene, su cuerpo se  preci pitará hacia adel ante y pued e 
+entonces tom ar pre cauciones. Quien, por el contrari o, solo s oluciona —
+individualmen te y no c on una teorí a gener al— un  probl ema si n llegar a 
+conoc er la te oría que im plica —e n este caso el princi pio de inerci a— deberí a 
+sujetarse,  si puede y como pueda,  cada vez que el conductor del automóvil 
+frene. 
+ Enfoques XIV, 1 y 2 (2002): 73-112  76
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+El concepto de teoría 
+Com o se advi erte, el problema es sól o una par te o fase  en el pr oceso 
+de una inv estigación. Ma nifiesta un a dific ultad, y ell a nos exige al menos u na 
+explicaci ón. Es aquí donde se inic ia la segunda  par te del p roceso de 
+investig ación, donde surge l a necesidad de una te oría. 
+En la cultura  griega, “ teórico” (término relacionado c on la acción de  
+observ ar, de s er espec tador ) era quie n observaba una r epresentaci ón teatral  e 
+interpretaba lo que está sucediendo ; no era quien a ctuaba o l a realizaba (el 
+cual, como actor, er a el pr áctico).  
+En su núcleo míni mo, una teorí a es primeramente una idea, una 
+ideación o una i nterpretación que el científi co inventa par a encontr ar una 
+explic ación a  hech os, dat os o fen ómenos que sería n incoherentes sin esa  
+interpretación o teoría. En s egundo lugar, este núcle o míni mo, 
+frecue ntemente, se am plia y  refuerza c on otr as ideas int erpretativas, f ormando 
+una proposición o juic io. En terc er lugar, una te oría implic a una  serie de  
+juicios interpretativos, o una argumentación , con los que se tratan de 
+explic ar o jus tificar los hechos o fenómenos (físicos, social es, mo rales, etc .). 
+Una teorí a se expres a, entonces, li ngüísti ca y lógi came nte, mediante :  
+1. Una idea, un a proposición o una serie de proposiciones o juicios. 
+2. Que está n ordenad os, partiéndose de los más a bstractos o gene rales. 
+3. De mod o que los últimos implican a los prime ros, para ser en tendidos. 
+Quizás podrí amos inve ntar y formular un a teorí a acerca de quién es 
+líder , afir mando las sigui entes hi pótes is, algunas d e las cuales parecerán 
+fácilm ente ace ptables o evidentes, sin de jar, por ell o, de constituir parte de una 
+teoría, o se a, de una in terpretación que p odrá ser some tida a prue ba o cambio: 
+1. Líder es quien tiene capacidad par a dirigir. 
+2. Esto im plica poseer atribu tos espe cíficos, en es pecial, el de conducir la 
+acción de p ersonas a me tas y obj etivos determi nados. 
+3. Dado que las  acciones hu manas no es tán pr edete rminadas, el líder  debe 
+estar dispues to a enfrentar cambios permanentemente. 
+4. La bu ena c omunicación y la confianza en sus cu alidades son importantes  
+para realizar una conducci ón y para que los liderados le sean fieles. 
+Los con ceptos implic ados en la teorí a deber án, ci ertamente, ser 
+aclarados y pr ecisados y, para ello, a partir del marco teóric o, se el abora el  
+Enfoques XIV, 1 y 2 (2002): 73-112 77
+
+WILLIAM  R. D AROS   
+marco conceptual  (o aclaración de los c onceptos fu ndamen tales incluidos e n 
+la teoría) del c ual hablaremos más adela nte. 
+El conce pto de “teorí a” se refiere, e ntonces, a ideas inventadas c on 
+fines interpretativos, ace rca de sucesos  o cosas que no pueden se r observados  
+directa o em pírica mente, sino a tr avés de sus manifestaci ones. P or ello, el  
+concepto de teo ría remit e a una idea  abstracta. A ve ces se suele despreciar a 
+los teóricos, precisament e porque no  hablan de nada empíricamente visible y  
+parecen quedarse en m eras inter pretaciones. Sin e mbargo, ya e n nuestro s 
+lenguaj es coti dianos est án supuestas nu merosas t eorías: por eje mplo, la teorí a 
+del sujeto o de la sustanci a, habl ando de la cu al podemos presci ndir de sus 
+accide ntes visibles; por ello hablam os con toda  normalidad de “la mesa” (y no 
+de “esta mes a que veo de color marrón, con tal o cual peso  y altura ”), de “la  
+silla”, de “la política”, “la causa”, etc. 
+Com o toda interpretación, una t eoría es hip otética o supuest a, y 
+finalm ente puede ser verdad era o f alsa.  
+La construcci ón del m arco teórico suel e ser u n momento difícil  para 
+los que se ini cian en una i nvestigación, pues es el m omento de hace r explícitas  
+las cree ncias, los supuestos que el investigador tie ne, y —ante el pr oblema— 
+contraponer una i nterpretación nueva e inve ntada. Lo que se d a son los 
+problem as, esto es, los conflictos  entre lo que sucede y lo que s e esperaba que  
+sucediera (la vieja t eoría). Las nuev as teorías, hipótesis o in terpretaciones, no 
+surgen de  los problemas:  es necesari o inventarlas.  “De un modo general —
+afirm aba Albert Ei nstein— n o me agrada t odo el  aferrarse ‘positivista’ a lo 
+observ able, que actu almente está de moda... y pi enso (como usted, por l o 
+demás) que no se pu ede fabric ar la  teorí a a p artir de result ados de 
+observ ación, sino sól o inve ntarla”.2
+En nuestr o enfoque epistemológi co, una teoría implica al m enos 
+construir un a interpretación hipotética que admi te que:  (a) exis ten problemas 
+porque  existe n contradicciones (entre  las ideas o entre las ideas y la realidad);  
+(b) implica excluir las contradicci ones (lógicas en los problem as lógicos y 
+reales  en los problemas  reales); (c) para excluir dic has contradicciones se 
+inven ta un a idea nueva ( con diversos grados de abstr acción o g eneralidad, y 
+con diversas  expli citaciones en juicios  y r azonami entos),  con la cual  se 
+explic an o exc luyen las c ontradicciones. 
+                                                 
+2 Albert Einstein, “Carta a K. P opper” (1935), en Karl  Poppe r, La lógica de la invest igación cient ífica 
+(Madrid: Tecn os, 1977), 427. 
+ Enfoques XIV, 1 y 2 (2002): 73-112  78
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+No pocas personas se hacen un raro concepto de lo que es u na teoría. 
+Estima n que  sólo son t eorías las gra ndes co ncepciones a bstractas de los 
+grandes ci entíficos: la t eoría de la relativi dad, la teorí a cuántica, la te oría de la  
+evolució n. És tas podría n ser llamadas macr oteorías; teorías hist óricamente 
+importantes por la utilidad (teórica o práctica) que han pr estad o. Pero las  
+teorías son si empr e inter pretaciones hi potéticas, que desp ués de un tiempo, 
+son lógi camente bien formuladas en  form a co mpleja, c onceptualmente 
+precis as, y al menos en parte sometidas a  valid ación, verificándolas o 
+falsándolas. Pero en sus inicios, un a teoría es u na corazonada, u n deseo, un a 
+expectativa, una in terpretación aú n no muy pre cisada e n sus conce ptos.  
+Una teoría no si empre posee conceptos con u n alto nivel de 
+abstr acción. Cuan to más  abstr actos son los  conceptos de  una  teoría, ésta 
+adquiere m ayor univ ersalid ad y c apacidad par a explicar he chos. Si afirmo que  
+un tro zo de hierro se dila ta con el cal or, estoy c onstatando un h echo; de él se  
+puede inventar la idea de la dilatabilid ad. Si repito la experi encia u na y otra 
+vez, y  si tengo creatividad, inve ntaré la idea —y  generaré l a esperanza— de 
+que el hierr o siempr e se dilatar á con el cal or, y podré fo rmula r la te oría 
+universal (e h ipotética) de que el hierro siempr e se dil ata y se dilatará c on el 
+calor . Luego  se podrá inv entar un a hipótesis más universal y afirmar que, dad o 
+que el hi erro es un m etal, entonces todos los m etales se dilat an y se dilatar án 
+con el cal or. Al gener alizarla, la t eoría aplicada a objetos m ateriales, adquiere  
+un car ácter pr edictivo y se suele formul ar com o una l ey o c onstante. Mas el 
+carácter predi ctivo se a plica sólo a los objetos que n o está n som etidos a la 
+libertad. 
+Indudablemente que es útil inven tar una idea para ex plicar un 
+fenómeno; pero se tr ata de la explic ación de un s olo caso. H ay buen as 
+investigaciones que sólo describen o explican el desarrollo de un cas o 
+particular. Cuando l os fenómenos son irrepetibles (como en los casos en que  
+intervi ene la libertad hum ana o el a zar), una ex plicación cie ntífica describe y 
+explic a cuali tativam ente un  solo c aso. Nos encontr aremos e ntonces  con las  
+ricas ( pero poco generalizables) investig aciones cuali tativame nte des criptivas,  
+frecue ntemente realizadas e n estudios etnográficos.3 Pero, a veces, cuando no 
+                                                 
+3 S. Tayl or y R Bogdan, Introducción a los  métodos cu alitativos de inv estigación  (Barc elona: P aidós, 
+1998). Ser gio Pérez Álvar ez, Las investigaciones explor atorias y descript ivas en las ciencias de l a educación 
+(Buen os Aires: Librería del Colegio, 1978). D. Fetterman , Etnography: Step by Step  (Newbury 
+Park: Sage, 1989 ). Stake, La inv estigación con est udios de casos . Adriana  Lo Schiavo de Randazzo,  
+“Una mi rada al c onoc imiento c ientífico desde e l paradi gma de  la complejidad”, Revista  
+Internacional de E studios en Educa ción 1, 1 (En ero 2001): 58-62. 
+Enfoques XIV, 1 y 2 (2002): 73-112 79
+
+WILLIAM  R. D AROS   
+intervi ene la libertad huma na o el azar, es cuantitativamente más ú til, inven tar 
+ideas y te orías universal es (relaci ones gener ales d e causa y efecto) que 
+expliquen mu chos casos en diversos tiempos y lugares, y posi biliten predeci r 
+otras situaci ones a nálogas.  Luego am pliarem os est e con cepto de teorí a y 
+ofreceremos ejempl os. 
+Una teoría es, pues,  un medio inve ntado por el  científi co, con el cual 
+trata de comprender un problema; es la causa p or la cual el efecto (lo qu e 
+aparec e, el fenómeno, el hecho, el da to, etc.) queda  comprendido,  explic ado. 
+“Explicar” ( ex – plicare : desplegar ), en efecto, supone  anali zar y explicit ar la 
+causa posibl e (lógic a o real) de un efe cto, o bie n, sup one el posible efecto de  
+una c ausa. E xplicar es dar  (con divers os medios: ex plicit ando, describiendo, 
+mostr ando, experim entando) una ra zón, idea, fac tor o causa (lla mado explican s) 
+a un ef ecto que no l a manifiesta, efecto apelado explicand um: lo que debe ser 
+explicado.4
+Com o se advierte, u na teoría co ntiene un núcl eo de explicación. En 
+ese nú cleo se encue ntran los principi os (los axi omas, leyes) y las hipótesis (o 
+suposiciones ), que toman la función de causas l ógicas res pecto de las  
+conclusiones de un raz onamiento o de causas re ales para las c onsecuencias  
+reales (efe ctos reales, fe nómenos r eales). 
+Debe tene rse prese nte que  una teoría es siempr e una inte rpretación 
+inventada y  posee u n carácter construido e hipotétic o, esto es,  el carácter d e 
+algo pensado como posible (una causa o u n efecto posi ble) y que de be 
+some terse a validació n. 
+MARCO TE ÓRICO  
+El ma rco encuadra un a pintura, l a ubica, la contiene, le da un centro, 
+la hace relevante. A nálogamente, un marc o teórico es lo que en cuadra , 
+contie ne, u bica y hace r elevante el s entido del prob lema. Una  teoría, en cuanto 
+permi te des cribir, com prender, expli car e interpretar l os problemas,  les da a 
+los mismos u n marco. 
+El marc o teórico cum ple, entonces, diver sas funcio nes: 
+1. Posibilita describir l os probl emas en las investigaci ones. No hay probl ema 
+sino en referencia a una idea, a una expectativa: algo es problema cuando  
+entra en conflicto con lo que esper ábamos que su cediera: eso que 
+                                                 
+4 Cf. Karl Popper, Conoci miento obj etivo (Madrid: Tecno s, 1994), 315. 
+ Enfoques XIV, 1 y 2 (2002): 73-112  80
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+esper ábamos que sucediera es la teoría previa —más o menos explícita— 
+que tenemos. Dado que la teoría vi eja no parece explic ar el pr oblema, nos 
+urge inventar otra. Por ello,  el marc o teórico ta mbién es llamado  “marco 
+referencial”: el problema tiene sen tido e n referencia a una teoría. 
+2. Dado que  una teoría suele  implic ar la aceptación, al menos hipotética, de 
+algunas ide as teóri cas, c on lo cual d a un sen tido de unidad a la  
+investig ación, con una  teoría se  pued en ex plicar much os pr oblemas 
+semeja ntes, s uponiendo  los mism os principios o leyes o causas, y  
+suponi endo l a ausen cia de la libe rtad que interve nga im pidien do o 
+distorsio nando la ma nifestación aut omática de los mismos efectos. Mas 
+también es p osible que va rias te orías e xpliquen el mismo hecho. Una 
+investig ación debe evalu arse en fu nción del núm ero de cuest iones 
+significa tivas que suscita, tanto como d el núm ero de pr oblemas que 
+resuelve.5 Las condici ones mínim as par a la ace ptación de una teo ría son:  
+no contradicci ón y su acuer do con los hechos experimentales. En alguno s 
+casos es posi ble que coexi stan vari as teorías, todas ellas aceptables  desde 
+el punto de vista de estos requisitos mí nimos, que sean ca paces de explicar 
+los mismos fenómenos. En estos ca sos, los motivos de preferencia 
+pueden ser la mayor simpl icidad, ge neralidad, explicación de detall es y 
+otros anál ogos, los cuales s on sie mpre criterios muy el ásticos.6 El marco 
+teórico se convierte, de este modo, en un i nstrume nto fundame ntal para el 
+análisis de los problemas. El anális is (des – at o) implica considerar 
+separ adamente las partes (abstraer); al consider arlas en función de una 
+totalidad, el análisis se enri quece luego con la síntesis (en la que las partes 
+encue ntran la composición). 
+3. Otra fu nción del marc o teórico se h alla en dar se ntido a los h echos o 
+fenómenos y orientar la organización de los mism os. L o que es u n hecho 
+en un a teoría puede n o ser el mismo “ hecho” en otra teoría: la ti erra no es 
+planeta en la teoría g eocéntrica y lo es en l a teoría heliocéntri ca. 
+4. El marc o teórico cum ple, además, la fun ción de ser ej e integr ador de  todo  
+el pr oceso d e investigación. Sin  el marco teórico no tiene sentido el 
+problema ni se puede pr oceder a ela borar un diseño m etodológico con el 
+cual pr obar las hipó tesis. 
+                                                 
+5 Claren ce Brown  y Edw in Ghiselli, El método ci entífico en psi cología (Buenos Aires: Paid ós, 1969), 
+263. 
+6 Evandro Agazzi, Temas y  problema s de filosofía de  la física (Barcelo na: Herder, 1998), 58. 
+Enfoques XIV, 1 y 2 (2002): 73-112 81
+
+WILLIAM  R. D AROS   
+Algunos autores de ma nuales de met odología des ean distinguir: (a) el 
+marc o conceptual, del (b) marc o teórico. Esti man que el pre tendido marc o 
+conceptual s e diferenci a del mar co teórico p or estar cons tituido:  (1) p or 
+conce ptos básicos, (2) elaborados mediante un proces o inductivo y lu ego (3) 
+organizados c on coherencia. 
+En las investigaciones descriptivas ge neralmente se constru ye un marc o conceptual, 
+en el cual s e analizan y articulan  los conceptos básicos aplicables al tem a en estudio . 
+Estos conceptos básicos se organi zan y  se les da coherencia, con el fin de dar se ntido 
+al conoc imiento q ue se obti ene sobre  cierta probl emática. Los c onceptos 
+seleccionados se  reúnen y convierten en bloques de c onstru cción que sirven de guía a 
+la investigació n.7
+Analic emos es tos tr es aspectos: 
+Un marc o conceptual es taría orga nizado por co nceptos básic os y n o 
+por teorías. L os conceptos, sin emb argo, no se organizan en forma ciega e  
+irraci onal sino sobre el eje de una id ea previa (que las autoras llaman 
+“conceptos b ásicos ).  Los  con ceptos no “se organizan” ni “s e les da  
+coherencia” en forma azarosa, sin o bajo una ide a que inco a un a teorí a y 
+posibili ta excluir las incoherenci as. 
+Un co ncepto o idea bási ca contiene sin e xplicit ar un o o más juicios,  
+esto es, una teoría implícita. Ideas co mo “dinero”, “tratado”, etc., contienen 
+teorías sin las cuales  los conceptos aislad os no tendría n sentido;  teorías qu e 
+implican una red de otros conce ptos como -en este  caso- socio, trueque, 
+beneficio, acu erdo, fidelida d, etc. Es un error cr eer que los conce ptos básic os 
+de una inv estigación s e hallan en el  Diccionari o de la Real Academia. L os 
+diccionari os ofre cen l a significación de  una palabra remitiendo al lenguaje 
+cotidia no, da ndo al gunos  sinó nimos de la mism a; pero dan sugeren cias 
+respecto del cambio de su  significad o según se in serte la palabra  en un 
+contexto teórico o e n otro. Así, por eje mplo, “tra bajo” es una p alabra que  
+puede remi tir a conceptos diversos según la  teoría científica en la que se lo 
+insert e; “tr abajo” puede si gnific ar “los fenómenos q ue se pr oducen e n una 
+sustanci a que cambia su c onstitució n” dentro de u na teoría química;  o bien “la 
+acción de u na fuerz a que  traslad a su punt o de a plicación” en u na teoría 
+mecánica dentro de la física.  
+                                                 
+7 F. Canales, E. Pineda & E. Alvarado, Metodo logía de la investigación  (Washi ngton, D. C.: 
+Organ izació n Panamerican a de la Salud, 1994), 56. 
+ Enfoques XIV, 1 y 2 (2002): 73-112  82
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+Por otra parte, la inducci ón no es un proceso lógico, sino psicol ógico 
+por el cu al creativamente pasamos de  un hecho a otro, gener alizando  posi bles 
+conclusiones.  Si veo, por ejemplo, u n ganso bl anco y luego otro y despué s 
+otros, afirmo finalm ente que todos los gansos son bla ncos; pe ro esto no e s 
+más que el proceso de cr ear una hipótesi s. Mediante la inducción, el científic o 
+sugiere psic ológica mente una regularida d o unifor midad; pero  ella no se 
+justifica, sin más, lógi ca o real mente.8 La inducción esconde la teoría (la 
+hipótesis o creencia) de la  regularidad y ésta incluye  tácitamente la teoría de  la 
+uniformidad universal del obrar de la Natural eza. Para que haya ju stificación 
+lógica se necesita que el c oncepto de algo singular s e halle i ncluido en e l 
+concepto de algo  universa l.9  
+El filós ofo Francis Bac on había d ado imp ortancia al pr oceso de 
+inducción; otro filósofo, David Hume, le  restó importanci a lógi ca pero lo 
+admitió  como proceso psic ológic o; el epistemólogo Karl Pop per, finalmente, 
+lo redujo a ser una consecu encia de un a teoría esperanzada, inv entada por l os 
+hombres, pero de la  cual  ellos no s on muy conscientes: l a de esperar  
+regularidades y luego buscarlas. 
+Hume después de abandonar l a teoría lógica de la inducción por re petición, ce rró u n 
+trato c on el sentido común y volvió a admi tir humi ldemente la inducción por re pe-
+tición baj o el disfraz de  una teoría psicológica.  
+Yo propongo invertir la teo ría de Hume. En  lugar de exp licar la p ropensión a esp erar 
+regularidades como re sultado de  la repetición, pr opongo e xplicar la repetición para 
+nosotros c omo el resultado de  nuestra prope nsión a esperar re gularidades y buscarlas. 
+Así fui condu cido por  consideraciones purame nte lógicas a re emplazar l a teoría psico-
+lógica de la inducción por l a concepción si guiente. Si n esperar pas ivamente que las 
+repeticiones impriman o i mpongan re gularidades sobre  nosotros, debemos tratar  
+activamente de impone r regularidades al mundo. Debemos tra tar de  descubrir 
+similaridades  en él e in terpretacio nes en fun ción de las  leyes  inventadas por 
+nosotros.10
+Al valor de la inducció n se le han hecho varias crí ticas: 
+                                                 
+8 Cf. William Daro s, Introducción a l a epistemología popp eriana  (Rosario: Conicet-Cerid er,19 98), 118.  
+9 Si to dos los hombres son mortales  y Pedro  es hombre, este hombre es tá ya incluido en lo que 
+se dice de to dos; luego  es lógico afirm ar que Pedro  es mortal. 
+10 Karl Poppe r, Desarrollo del conocimiento  (Buen os Aire s: Paidó s, 1977), 58. Cf. Pa ul Asc hinstein, 
+La naturaleza de la explicación cie ntífica (México : FCE, 1 989). P.  Tib betts, “Po pper versus 
+'Traditio nal Epistemo logy'“, Dialect ica 2 (1980): 155-160. John Watkin s, “Scientific Rationality 
+and t he Problem of Indu ctione”, British Journal of Philosophical Science 42 (1991): 343-36 8. 
+Enfoques XIV, 1 y 2 (2002): 73-112 83
+
+WILLIAM  R. D AROS   
+En pri mer lu gar, la ci encia no pr ocede por i nducción como si los 
+hechos hablaran por sí mis mos o tuvies en en cada caso particular u na esencia 
+universal y llevaran implícitamente la teoría o i nterpretación que  los explica. El  
+método científico no c omienza r ecopilando y  ordenando experienci as 
+verdaderas e inmedia tas (datos estadísti cos, descripciones) y llegando lueg o 
+infali blem ente a una ve rdad universal, s in la previa creación y guía de una 
+conjetura o interpretación y sin la necesidad de la f alsación de l as conclusione s 
+a las que se llega. 
+En segun do luga r, querer probar el valor de la in ducció n basándonos 
+en que es alg o eviden te im plica atribuirle a la evide ncia (que es algo psic o-
+lógico) u n valor lógico y un valor de v erdad. Cr eer que lo claro o inmediato  es 
+verdad, es un error que pasó del filóso fo Descartes al idealismo. Evidente es  
+aquello que se admite sin discutir lo que el científic o ve y el objeto m anifiesta; 
+pero no todos los cie ntíficos ven lo mis mo ni un a cosa mani fiesta lo mismo a  
+todos l os observador es. Para P opper l a evidenci a es algo subje tivo y no ti ene 
+valor de pru eba científica ni lógica. 
+En tercer lug ar, el principio de induc ción no se prueba por la expe-
+rienci a, por el hecho de q ue muchos científi cos adm itan que proceden de  
+hecho inducti vamente. Esto indica s olamente que los cientí ficos psicol ógi-
+camente pr oceden inducie ndo (ye ndo de casos particulares a casos universales: 
+creando u na proyección); pero este hecho psicológic o de la i nducció n no 
+queda por esto lógicamente justificad o. Este pro ceder  psicol ógico, a unque sea 
+de utilidad y d e ayuda, a v eces, para i nventar hipótesis, no es útil para probar o 
+justificar científicamente lo inducido: queda siempre su jeto a l a posibilidad de 
+error.  En res umen, no se puede utili zar la i nducci ón para justificar l a in-
+ducción. El hecho de pr etender justific ar la inducción por l a experi encia ya 
+está pr esuponiendo la induc ción y su valo r, lo cual co nstituye un aceptarla por 
+principio y n o por ex periencia (petitio principii ). 
+De h echo, lo que se org aniza con coherencia es p osible gra cias a un 
+marc o teórico, esto es, gra cias a que se explicit a una t eoría a par tir de una idea,  
+expectativa, inter pretación o conje tura que hace la f unción de pri ncipio de 
+organización y supera l o observa ble. Es esa idea teóri ca la que le da unidad y 
+sentido, y es l a que posibili ta la co herencia de los hec hos, datos o fe nómenos. 
+Los c onceptos del mar co conceptual tampoco se organizan solos, sino que 
+alguien l os organi za guiad o por fi nalid ades o i ntereses. Exigir coherenci a 
+implica ya toda una teorí a del conoci mien to. En realid ad, lo que el científico 
+está haciendo no es un a inocente reuni ón arbitraria de co nceptos, sino l a 
+creación de u n marco teórico inicial, donde algun os conceptos quizá s no s on 
+tan abstractos , pues ellos, al ser descri ptivos, se refiere n a entidades c oncretas 
+ Enfoques XIV, 1 y 2 (2002): 73-112  84
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+o par ticular es. Pero esa desc ripción se real iza co n algún concepto orga nizad or 
+que sí es abs tracto.11 Las razones, pues, que se aportan pa ra so stener la 
+existe ncia de un mar co conceptual dive rso del ma rco t eórico , no resist en la 
+crítica.  
+Es indudabl e que el m arco teórico implica conceptos y está integrado 
+por c onceptos. El marc o teórico es ta mbién un m arco con ceptual, porque las  
+teorías incluyen pr oposiciones y éstas implica n conceptos que remit en a 
+objetos (mentales o re ales).  
+Los conce ptos no tie nen sentid o aisladamente, c omo en el cas o de 
+que se pudiese tomar el signific ado de l os conc eptos  de un diccionari o sin 
+ningun a relación con otros conceptos teóricos pr evios, co n la totalidad del 
+lenguaj e, y sin principios organizadores  previ os. Repitámosl o: un mism o 
+vocablo y concepto puede n signifi car cosas distintas en distintas teorías. Por 
+ejemplo, segú n sea la te oría del espaci o que se asuma los  conc eptos ref eridos a  
+la suma de los  ángulos interi ores o a los de una paralel a, varían grandemente. 
+Así, la suma de los 
+ángulos de un 
+triángulo es:  Igual a dos rectos en la g eometrí a de Euclides. 
+ Menos que do s rect os en la de Loba tchevsky. 
+ Mayor que dos rectos en la de Riesman.  
+ 
+El númer o de 
+paralelos a una recta 
+dada que se pueden 
+trazar en un p unto 
+dado es igual:  A uno e n la geometría de E uclides. 
+ A cero en la d e Riesm an. 
+ A infinito en la de Lobatchevsky.12 
+ 
+No pare ce, pues, que se pueda soste ner que exis te un marco  
+conceptual qu e no i mplica un marco teórico previo. Un marc o conceptual, si n 
+un m arco teórico, está dejando i mplícitamente y sin analizar una concepción 
+teórica. 
+                                                 
+11 Por ejemplo: un antro pólogo c ultural pu ede desc ribir las costumbre s parti culares de una 
+persona  o de  un grupo con el principio implícito de que toda ac ción humana tiene sentido o 
+puede recibir un sentido guiado por intereses. 
+12 Hen ri Poincaré, La ciencia y  la hipót esis (Madrid: Espasa-Calp e, 1963), 48. 
+Enfoques XIV, 1 y 2 (2002): 73-112 85
+
+WILLIAM  R. D AROS   
+LA ESTRUCTURA LÓGI CA GENERAL DE LAS TEORÍAS  
+Una teoría implica un sist ema de conocimien tos, compuestos de: ( a) 
+ideas (expr esadas con palabras), ( b) juicios (ex presados con or aciones y 
+proposiciones) y (c ) razonamientos (ex presad os con un discurrir, o sea, en 
+series de proposiciones ló gicamente e ncadenadas).  
+Las ideas en cuanto elementos de las teorías 
+Una teoría es emb rionariamente una idea, la cual es  una entidad 
+mental que re fiere a lo que  se entie nde acerca de una entidad re al o posible.  
+Con el término c oncepto ( conceptu m: lo concebido) nos referim os a lo mismo,  
+pero indicand o el esfuerz o por c oncebir lo que es esa entidad. El c oncepto 
+refiere a lo q ue una p ersona entiende – concibe– ace rca de un  objeto; la idea 
+refiere a lo qu e la cos a es, o sea, posee un carácter más objetiv o. 
+Una ide a no es una palabra (o un  sign o sensible: un di bujo, un  color 
+del semáforo). La palabra es un sign ificante sensi ble que remi te a u n 
+significad o (a una idea, a algo en tendido) , el cual remit e a su vez a un obj eto 
+(real o mental). Con la palabra árbol, por ejem plo, remito al oyente a la idea  de 
+árbol (a l o que es el árb ol) y esa idea m e remit e y se apoya e n una realidad 
+llamada árbol. La expresión de una id ea ya implica u na teoría del sig no. 
+ 
+ 
+ 
+ La pal abra: 
+significante 
+sensible .
+Un objeto : real o mental.Significad o: una 
+idea, algo entendido. 
+ 
+ 
+ 
+ 
+ 
+ 
+En nuestr a cultura y según el lenguaje,  el idear (el generar ideas) es un 
+acto del sujet o. El c ontenido de este acto, lo pensado  acer ca de l o que es un  
+objeto, es l a idea. La idea pretende  ser obje tiva (estar basada en el  objeto al 
+que refiere ); la realidad exist e o no existe, no es ni objetiva ni subjetiv a (pues la  
+objetividad o subjetividad  es una cara cterís tica de l os conocimie ntos). Las  
+palabras son partes o el ementos de siste mas ar bitrariamente convencionales, 
+llamados leng uajes. Puedo usar, en una u otra c omunidad parla nte, la pala bra 
+ Enfoques XIV, 1 y 2 (2002): 73-112  86
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+árbol, o bien  tree, o bi en albero, sin que cambie el si gnificado de l o que se 
+contie ne en la idea, si bien el sentid o social puede  contener m atices diversos  
+en cada comunidad. Par a quien vive e n la selva el árbol roble pu ede ser mu y 
+real e i mportante por su precio o utilid ad, pero para quien ha viv ido en el 
+desierto el árbol puede ser s ólo alg o de lo cual le habl aron. 
+Las ideas, además, suele n clasificars e de much as ma neras. Aquí n os 
+convi ene distinguir las ideas : (a) teóricas, de las ideas; ( b) empíricas.  
+Las ideas te óricas re miten, en su co ntenido a e ntidades abstr actas 
+(aspectos de o bjetos –men tales o real es– consider ados sepa radam ente). Como 
+tales, l as ideas teóricas no son observables direct a y sensibleme nte; la blancura, 
+la racionalidad , la huma nidad son características abstraídas que p oseen algunos 
+entes. 
+Las ideas em píricas no son empí ricas (sensibles, observabl es) e n sí 
+mismas, pues a ninguna  idea se  la ve o se la olfatea, sin o que s ólo se l a 
+entiende o no se la enti ende. Ellas se refiere n a enti dades observ ables c on 
+nuestr os se ntidos, o con instrumen tos adecuados, y mediante  ellos, con l os 
+sentidos.  
+Otra característica de l as ideas es que pue den ser juzg adas como f alsas 
+o como verda deras. Cu ando una idea no concuerda  con la realidad  a la cual  
+refiere , en una comunidad parlante , deci mos que es una idea falsa: afirmar que 
+“un an teojo es un elefan te” es falso, lin güística y em píricam ente. Es  legítimo,  
+sin embarg o, redefinir l as palabras y afirmar: Vo y a utilizar la palabra 
+“anteoj o” para referirme a “elefante”; má s aún en este caso, hab rá que 
+verificar empíricamente si  cada vez q ue utilizo l a expresi ón “es to es un 
+anteojo” estoy indic ando observa blemente un ele fante. La ci encia no es u na 
+cuestió n de palabras, si no de búsqueda de solució n de problemas; pero hay 
+que pre cisar el uso de  las palabras de finiénd olas y atenerse lueg o a esa 
+definici ón. 
+El proceder científic o pretende: (a ) teóricamente, bus car la verdad, 
+saber cómo son las cosas; (b) prácti camente, ser eficaz y c ambiar las 
+conduc tas; (c ) tec nológic amente, ser eficiente y producir cosas nuevas o 
+diversas. En l a teorí a, cobr a valor la verdad; en l a práctica, es i mportante ser 
+eficaz; en el ámbi to tecnológico, lo rel evante result a ser la pr oduc ción y su 
+eficie ncia en relación con el costo-beneficio.  
+El valor verd ad se refiere a los pe nsami entos, los cuales pueden se r 
+verdaderos o falsos e n un doble se ntido:  
+Enfoques XIV, 1 y 2 (2002): 73-112 87
+
+WILLIAM  R. D AROS   
+1. Un pens amiento es  formalmente v erdadero cuando no es  contradic torio. 
+La idea de “círculo cu adrado” es ab surda, contradictoria en sí misma; 
+carece de contenid o inteligi ble; una idea  ininteligibl e no es idea, si no solo 
+una p alabra sin sentid o. La verdad fo rmal es aque lla que excluye l a 
+contradicción en las f ormas de pens ar.  
+2. Un pe nsami ento es em píricamente ver dadero cuando se adecua a la 
+realidad a la c ual se refiere el que piensa y habla (poco impor ta que se a 
+expres ada con un a u otra palabra, en uno u otro idio ma), y es 
+empíri camente fals o cuand o lo que se  piens a no se adecu a a lo real. 
+Imagin ar y p ensar la “ nieve negr a” es p osible, pero es un pensa miento 
+empíri camente falso si lo r eferim os a lo que comúnm ente cae en é pocas 
+de nevada y entendem os por nieve. 
+Los ju icios e n cuanto ele mentos de las teor ías 
+Una teoría, s i bien implica una o varias ideas, g eneralm ente s e 
+explici ta lógi camente en proposiciones que, al  afirmar o negar algo, se 
+convi erten en juicios y lingü ísticam ente e n oraciones. 
+Los juicios se componen d e tres elementos: el  sujeto del juicio, el 
+predic ado y la unión (afirmada o negada) e ntre ambos. “La cie ncia es mu y 
+útil” es un juicio en cuanto  se afirm a o predica (l o que  “es”), e n este caso, l a 
+utilidad respecto del sujeto  considerado (l a cienci a). 
+Nos i nteresa remar car, filosóficament e, dos clas es de juicios: (a) los 
+analíticos y ( b) los sint éticos. 
+a) Los juicios a nalíticos son tautológi cos. So n conceptualmente tautológicos 
+los que afirm an lo mismo  (la misma  idea) en  el predi cado y en el sujeto  
+(por eje mplo: el liber alism o es el siste ma que valor a principalm ente la 
+libert ad); y son estrictamente tautológicos (o circulare s) los que uti lizan 
+incluso las mi smas pal abras (el liberalismo es el liberalismo). 
+b) Las definici ones son juicios conceptualmente analíticos: en ellas se analiza 
+en el predic ado lo que s e contiene en el  sujeto de la oración. L as 
+definici ones, e n tanto son a nalíticas, so n lógica mente ve rdaderas: n o dicen 
+nada nuevo.  
+Es sabid o que las defini ciones ve rbales tratan sobre el signific ado de 
+una p alabra y puede n ser eti mológicas o nominales. L as definici ones 
+nomi nales (por ejem plo, las que se encu entran en un diccion ario) aclaran el 
+uso corri ente de las pal abras en un sist ema de palabras o lengu aje en uso. La  
+funció n de un a definici ón verbal no está en decir algo verdadero o falso, sino 
+ Enfoques XIV, 1 y 2 (2002): 73-112  88
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+en explici tar lo que enti ende una pers ona (la idea) cuando utiliza una pal abra. 
+Cada ci entífic o puede rede finir el uso que  le da a una palabra y lueg o ate nerse  
+a esa  redefi nición que sal e del uso c orriente. La definici ón “d e-limit a” 
+conv encional mente el alcance de  signifi cado con el q ue es usada u na palabra, 
+por u na comunidad o por u na persona.13 Las definici ones debe n se r 
+apreciadas  por la fun ción de claridad que ap ortan; pero no d eben ser tomadas  
+como necesariamente verda deras o f alsas. Aristó teles s ostenía que ellas so n 
+tesis: t omas d e posi ción conceptual. Per o las defini ciones pueden ser, en su  
+intento de c ompre nsión de un o bjeto que va a s er defi nido, o bien demasiado 
+ampli as o bie n demasiad o estre chas, y p ueden requeri r nuevas delimita ciones. 
+Por ejem plo, el defini r: “Human o significa animal raci onal”, “racional” puede  
+ser apli cado s ólo a l os que de hec ho razonan (y se excluye a los r ecién nacidos  
+del ámbito humano); o aplicado a todos los animales con habilidades para 
+sacar consecu encias de sus acci ones (inc luyéndose a los anim ales e n el ám bito 
+huma no). 
+La ciencia se dist ingue del le nguaje cotidiano, entre otras cosas, 
+porque define con precisión los concep tos y palabras que utiliza, y porqu e 
+establec e una refere ncia precisa c on los obje tos a l os cuales se re fieren las 
+palabr as defi nidas. Las de finici ones de ben s er las necesarias para entende r 
+claramente el pro blema. Si se abusa de ellas se cae en un escolas ticism o, dond e 
+las pala bras comie nzan a tener más im portancia que el problema que se desea  
+solucionar. 
+Los juicios sintéticos son aquellos que afirma n algo q ue no se h alla 
+conte nido e n el sujeto: es ta flor es am arilla, o bi en; el li beralismo es u n sistem a 
+económic o mejor que otros. El concepto  de “flor” no implica neces ariame nte 
+que sea amarilla. Un juicio sintéti co, para que sea ac eptabl e, requiere 
+lógica mente q ue no se a contradict orio en sus términos (por eje mplo, el juici o 
+“Una fl or es  un ladrillo”, sin otra aclara ción, ex presa algo contrari o al lenguaj e 
+comú n en sus  palabras o términos).  
+Desde el punto de vista de su verd ad empírica, l os juicios sintéti cos 
+requieren que se investigue si la expres ión se adecu a a la realidad a la que se  
+refiere; por ej empl o, que se observe, si esta flor es amarilla o no lo es; o bien 
+que se establ ezca en qué  sentido y par a quiénes el li beralism o es mejor que 
+otros sistemas .  
+ 
+                                                 
+13 Cf. Wes ley Salo món, Lógica  (México : UTHEA, 1975), 138. 
+Enfoques XIV, 1 y 2 (2002): 73-112 89
+
+WILLIAM  R. D AROS   
+Los razonamientos en cua nto elementos de las teorías 
+Los juicios (e n cuanto se e ncadenan lógi camente sin contradicci ones y 
+llegan a una conclusi ón) constituy en razonami entos. 
+La lógi ca es tudia expres amente cuál es son l os razonamie ntos 
+correctos y  cuáles son f alaces. En ge neral, s e puede afirmar que la l ógica 
+implica l a idea del v alor de la no-contr adicción , o sea, de la  coherencia entre 
+las pr emisas  (axiom as, principios  o puntos de partida) y las conclusiones.  Un 
+razonamiento correcto supone  que lo que se afirma de la totalidad, s e afirma 
+también de ca da una de las par tes: Si todo s los hom bres rubios son ro sarinos y 
+Pedro es un h ombre rubi o, luego Pedro es rosari no. 
+Si se parte de premis as verd aderas, y se razona correctamente, s e llega 
+a conclusio nes tam bién v erdaderas. Si se par te de pr emisas c ontingentes o 
+sólo p osibles (co ndicio nadas a prue ba: “si todos los  hom bres ru bios so n 
+rosari nos”) y se razona correctamente, se llega a conclusi ones correctas o 
+form almente verdaderas, pero que deben some terse a prueb a empírica, pu es 
+no siend o necesario y  empíricamente v erdadero lo afir mado y contenido en la 
+premis a tam poco es ne cesario y empí ricamente verdadero lo afir mado y  
+contenido en  la conclusió n. Si se pa rte de premisas falsas y se razona 
+correctam ente, se lleg a a conclusion es fals as; pero, si  se razon a 
+incorrec tamente, la conclusi ón puede ser falsa o (por casualidad) verdadera.  
+Por ell o, un r azonamiento puede ser —e n su form a— corre cto, pero no por 
+ello e mpíricamente verd adero. E n muc hos discursos, com o los r ealizados por  
+ciertos políticos o a bogados, dado que no se s abe si los pun tos de los qu e 
+parten son v erdaderos, por más que pare zcan muy l ógicos su s razonamientos, 
+no podemos  saber  si sus c onclusi ones son empíricamente verd aderas. Se da  
+así espaci o para lo ide ológico, esto es, para i mponer como verdader o lo que 
+sólo es de i nterés de algú n grupo. Cabe record ar que l os científicos no son de 
+por sí bue nas o malas p ersonas, y es im portante advertir a qué fine s dedican 
+sus investigac iones. U na investigaci ón es un medio p ara logr ar algú n fin (l a 
+verdad, la ef icacia, la pr oducción co nveni ente) y ella se cali fica c omo 
+moralmente aceptable o no, según los fin es que persigue . 
+Cabe re cordar que en cienci a no todo se prueba.  La ci encia se da en la 
+prueb a y ésta se da en  las c onclusi ones,  por lo que en el mejor de los  casos —
+cuando se parte de premisas corr ectas— son cie ntíficas sólo las co nclusiones  
+del raz onami ento correcto. Lo que no se prueba, en un razonamiento y 
+mien tras se realiz a el ra zonamiento, son los principios (l os ini cios del 
+razonamie nto). Éstos se toman a veces  como evidentes [esto es, c omo no 
+contradic torios a los se ntidos (evide ncia sensori al) o a la mente (evidenci a 
+ Enfoques XIV, 1 y 2 (2002): 73-112  90
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+intelectual)], como axiomas (pri ncipios vali osos), o sea, como 
+moment áneament e no somet idos a discu sión (i ncondic ionalmente aceptados).  
+Dentro de un  sistema teó rico podemos distinguir en tre en unciado s pertenecientes a 
+niveles diversos de  universalidad. Los e nunciados de l nivel más al to son l os axiomas, 
+y de ellos pueden dedu cirse otros situado s a n iveles inferiores. Los enunciado s 
+empíricos de elevado nivel tienen siempre el carác ter de h ipótesis con respecto a los 
+enunciado s (de nivel in ferior) ded uctibles de e llos: pueden quedar fa lsados cuan do se 
+falsan estos enuncia dos menos universales [...].14
+“Podemos describir también la inferencia falsa de l modo siguiente: [(t 
+p).   ~p] en tonces ~t]; o, e xpresándol o con palabras: Si p es deducible de t , 
+y p es fals a, entonces t es tambié n fals o”.15
+El modus tollen s es una forma lógica de “arguir, de la verdad de los 
+enunciados si ngulares, l a falsedad de enu nciados unive rsales”16: Si t entonces 
+p; pero si no s e da p; luego no t. Apliquémoslo a un ej empl o: 
+- Si hay  armonía perfecta en el univers o como s ostienen los n eo-platónicos 
+(t), entonces, l as rotaciones de Marte en t orno al sol se rán p erfectas, o sea,  
+circulares (p).  
+- Pero las observacio nes refutan las rotaciones circul ares (~p). 
+- Luego la hi pótesis es falsa: no hay armonía perf ecta en el universo (~t). 
+A veces, ade más, lo que e s ideal o lógicamente cor recto es r ealmente 
+inaceptable. L o ideal no es  siempr e real o realizable.  Por ej emplo, es lógic o 
+que si dos albañiles trabajando ocho horas diarias cons truyen u na casita en seis  
+meses, cuatro la cons truirán en tres mes es, y así suces ivame nte; pero aun un a 
+gran cantidad  de albañiles (12.960) no la podrán cons truir realmente en una 
+hora (por razones extrañas a la lógica: espacio, movi mien tos multi tudinari os,  
+imposi bilidad física de coordinaci ón, etc.). 
+La lógica ha sido definida co mo la cie ncia (co n sus teorí as —com o ser 
+la teoría del sil ogismo— y s upuestos ) y el arte —re alizado por el hombre— de 
+dirigir la ra zón en su pr opio proceso de  razonar, de modo que s e la pu eda 
+                                                 
+14 Popper, Lógica de la investigación cien tífica, 72 y 73.  
+15 Cf. Rob ert Blan che, L'Axiomatique (París: PUF, l980).  
+16 Poppe r, Lógica de la inv estigación cient ífica, 41. Cf. José De Alejan dro, La lógica y el  hombre (Madrid:  
+BAC, 1990), 275. 
+Enfoques XIV, 1 y 2 (2002): 73-112 91
+
+WILLIAM  R. D AROS   
+hacer más ord enada y fácil.17 No es nu estra pretensión realizar aquí un trat ado 
+de lógica, per o debe record arse que la ciencia o es l a lógica o impli ca la lógi ca. 
+Com o ya dijimos, “un a buena i nvestigación no es tanto una  cuestión de 
+buenos mé todos com o de buen raz onami ento”.18
+CIENCIA , TEORÍAS E HIPÓTESIS  
+Una ci encia es un c onjunto de conoci mientos y razonami entos y  
+recib e su nom bre: ( a) del o bjeto que estud ia, (b) desde e l punt o de vista que lo  
+estudia. La fís ica (que estud ia los cuer pos y sus movimientos) se distingue de 
+la biologí a (que estudia la vi da obse rvable) por los diver sos obj etos de  estudio.  
+Pero u n mis mo objeto de estudio (por ej emplo, el hombre) puede s er 
+estudiado de sde distint os pun tos de  vista o consideraciones,  originando 
+diversas cienc ias: la ant ropología cultural , la medicina (la salud o en fermed ad 
+del ho mbre), la psicol ogía (el psiquism o hu mano), la filos ofía (el ser del  
+hombre), la economía (las ga nancias o pér didas de los bienes del h ombre).  
+“Cien cia” es, en r ealidad, una p alabra y una idea  análoga, est o es, 
+remite a alg o en parte igual  y en parte diverso. Todas las ciencias, por igual, 
+tratan algo desde cierto  punto de vist a media nte un méto do de razonamien to, 
+con el cu al pretenden al menos e xplicar ciertos  problemas. Per o se dif erencian 
+en que tratan problemas diversos  con métodos auxiliares  diversos 
+(observa ción, experi mentación, e tc.) y con fines diversos . 
+La ci encia, como l a mayoría de nues tras ideas, es análoga. Tiene, pues, 
+sentido  hablar tanto de “l a” cie ncia, en general,  com o de “l as” ci encias en 
+particular; c omo tie ne sentido habl ar del  hom bre (de l a mujer, de la  políti ca, 
+del trabajo, etc.) e n general y de cada hombre en par ticular. 
+Es frec uente el deseo de co nsiderar “ciencia”  sólo a aquello que cada 
+científic o hace . De este m odo, el físico considera cie ncia solam ente a la física y 
+sus métod os; el ma temático al m odo de  procede r de los matemáticos. Éste es 
+un modo u nívoco de consi derar a l a ciencia, como se ría equívoc o consider ar 
+que todo es ciencia. Desd e una pe rspectiva históric a, la cie ncia no es ni 
+unívoc a, ni equívoca, si no análoga: esto es, en parte igual a l as otras (en cuanto 
+todas buscan saber y validar sus conocimi entos) y en parte diversa a las demás  
+(en sus problemas, en sus modos de cons iderarlos, en s us métodos, etc.). 
+                                                 
+17 Cf. De Alejandr o, La lógica y el ho mbre, 20. 
+18 Stake, La inv estigación con est udios de casos,  28. 
+ Enfoques XIV, 1 y 2 (2002): 73-112  92
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+Aun con estos recaudos, no todos los científi cos están de acuerdo e n 
+una defini ción de lo que sea  “cien cia”. Al bert Einstein, por ejemplo, definía a 
+la cie ncia como: “ El em peño, s ecular  ya, de  agr upar por medio de l 
+pensamiento sistemá tico, los fenómenos perceptibles de este mund o, en una 
+asoci ación lo más am plia posible”.19  
+La cien cia es  el intento de lo grar que la div ersidad caótica de n uestras experiencias 
+sensori ales corresponda a u n sistema de pensami ento lógicamente uniforme . En este 
+sistema cada exp eriencia deb e estar en correlació n con la es tructura teórica d e tal 
+modo que la rela ción resultan te sea única y co nvincente. 
+Las e xperiencias se nsori ales representan lo dado. Pero la teoría que tendrá q ue in-
+terpretarlas está hecha por e l hombre. Se trata  del resultado de  un proc eso de adap-
+tación de carácter  extrem adam ente arduo : hipotético , nunca defin itivo, siempre sujeto 
+a la crítica y a la duda. 
+La m anera cien tífica de fo rmar co nceptos se distingue de la q ue utilizamos en la vida 
+de cada dí a no su bstanc ialmente, sino sól o en la may or pre cisión de  las def iniciones 
+de lo s conceptos y las  conclusiones; una elec ción más esmerada y s istemática de l 
+mate rial experimental; una may or economí a lógica. Esto último significa el esfuerzo 
+por reducir to dos lo s conceptos y axiomas básicos lógicam ente independientes.20
+Indudablem ente Einstein, al ex presarse de esta m anera, se es taba 
+ubicando en el ámbi to de la físi ca que tie ne presente l as experie ncias 
+sensori ales; pero esta definición no abarca a las ciencias for males, las 
+matemáticas o a la ló gica, las cuales n o estudian fe nómenos pe rceptibles de  
+este mundo,  sino modos mentales de  proceder , los cuales sól o deben ser  no 
+contradictorios p ara ser aceptables. 
+Quizás p odamos defini r entonces a la ciencia, e n general y e n un 
+sentido ampli o, como: ( a) un conjun to de conoci mientos: ideas, juicios , 
+razonamien tos (por lo  que la  cien cia no es un  hech o físico , sino un hecho 
+mental), (b) sistemá ticamente orga nizados (con principios —cuy o núcleo es el  
+marc o teórico— y  consecu encias que deben se r metódicamente valid adas), (c) 
+desde una determin ada pe rspec tiva (por l o que no es suficiente cons iderar l o 
+que se estudia par a defini r una ci encia; así el “trabaj o” es estudiado desde la 
+perspec tiva d e la física, de la economía,  de la sociol ogía, etc.), (d) conju ntos 
+sistemátic os de conoci mientos que se ref ieren a diversos obj etos de  estudio 
+(mentales o r eales, libres o carentes de  libertad) los c uales co ndici onan los 
+alcanc es de l os resultados  científic os (los objetos de est udio con capacidad 
+                                                 
+19 Albert Ein stein, “Cien cia y religión”, en Mis ideas y opiniones  (Bar celona: Bo sch, 1981), 38. C f. 
+Daros,  Introducció n a la epistemología popperiana, 44. 
+20 Einstein, “Lo s fundame ntos de la física teó rica”, e n Mis ideas y opiniones , 291-292. 
+Enfoques XIV, 1 y 2 (2002): 73-112 93
+
+WILLIAM  R. D AROS   
+libre no per miten predeci r resultados, sino  sólo describir y explicar sus actos); 
+(e) conocimien tos organ izados por los hombres (con sus grandezas y miserias , 
+con su entor no social, cul tural, político, económic o, ideológi co), (f ) guiados 
+por diversos f ines (t eóricos para expli car las cosas; práctico s para cambiar l as 
+conduc tas; p roductivos o tecnológi cos para transformar algun as realidades), y 
+(g) con disti nta valor ación (lógica o for mal; empíri ca, ex perim ental, etc.). 
+a) Un conjunto  de conoci mientos, 
+b) sistemáti camente organiza dos con teoría s, 
+c) desde una deter minada persp ectiva, 
+d) referi dos a diversos objetos co ndicionantes, 
+e) por los homb res y en su entorno, 
+f) guiados por div ersos fines, CIENCIA 
+g) y con dis tinta valoración . 
+Mas una ciencia no se distinguiría de la literatura (una página de 
+historia no se distinguiría de un cuen to) si no tuviese criteri os de validación.  
+Las cie ncias f ormales em plean el pri ncipio de no contr adicción c omo criteri o 
+de validez de las consecue ncias que deti enen de las premisas que asumen. Las 
+ciencias empíricas tratan de confir mar o refut ar sus conclusi ones con algún  
+recurso a l a experie ncia sens orial. 
+La cie ncia, en gene ral (y cada ciencia en particular ), es un sistem a de 
+conocimient os va lorados. Ahora bien ¿qué  es lo que da valor científico a un 
+conocimiento o a un a teoría, o cuánd o una t eoría o un conocimiento deja n de 
+ser cie ntíficos? El crite rio que establec e que algo es cie ntífico o no l o es, ha 
+sido el factor que ha dividido a los epistemólogos. En este sentido, Karl Po-
+pper ha estim ado que cualq uiera se a el origen de  una te oría, ésta c aduca y deja 
+de ser cientí fica, en cuanto sistema de  enunciados uni versales, cuando éstos  
+son refu tados  y falsados p or los datos de  la obse rvación, expr esados  en enun-
+ciados empíricos básicos. Miles de hech os puede n confirmar (hacer  más firm e) 
+una te oría o una cie ncia empíric a; per o es suficiente  un hecho e n contr a, 
+expres ado e n un enu nciado empíri co básico, para falsarla. En este caso, pues , 
+ Enfoques XIV, 1 y 2 (2002): 73-112  94
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+una teorí a caduca —deja de  ser cie ntífica— por una contradicci ón lógica con 
+un hec ho observado que la refuta f alseándola.21  
+Com o se advi erte, este criterio práctico (de falsedad) puede servir par a 
+establec er cuándo una cie ncia es empírica, mas  no para saber cuándo una 
+ciencia es, por ejempl o, ciencia for mal (como las m atemáticas o la l ógica).  
+Para otr os epistemólogos, por el cont rario, las cie ncias están llenas de 
+ejemplos de rech azos de enunci ados bas ados en he chos observados, sin que 
+por ello los científi cos abandonen las teorías co ntradichas por esos  hechos. 
+Los h echos que no  pued en se r interpretad os por una teoría s on tomados 
+como excepciones o se retocan las teorías 'ad hoc' para integrar esos hechos. 
+Por ello, Tomás Khu n ha sostenido que las teorías  dejan de ser científicas 
+porque, en un determi nado mom ento histórico y so cial, un grup o prestigioso  
+de científicos abandona un paradigma o modelo de ex plicación (consensuado 
+y adoptad o por la c omuni dad de investi gadores ) de lo que es cie ntífico y se 
+pasa a otro paradigm a. Un paradig ma es una estructura o sis tema de 
+conoci mientos sociológi camente inv ariantes (en el se ntido de que los ajustes  
+no obligan a abandonarlo) y por ello es i rrefut able. Así , por ej emplo, se pas ó 
+de la men talidad mágic a a la orga nicista o a la me canicista, no por la refutación 
+de un h echo observ ado, si no por todo un ca mbio de men talidad que revolu-
+cionó a l a ciencia. 
+Los cie ntíficos individuales ace ptan un nuevo paradigma por toda 
+clase de raz ones y, ha bitualmente, por varias al mis mo tiempo. Algunas de 
+esas raz ones(por eje mplo, el culto al Sol que cont ribuyó a que  Keple r se 
+convir tiera en un pa rtidari o de Co pérnico) se encuentran enter amente fuera de  
+la esfera apar ente de la ciencia. O tras debe n depe nder de idiosincrasias de  
+autobiografía y personalidad. Incluso la  nacionalidad o la reputación anterior 
+del innov ador y de sus maest ros pu eden a ve ces desempe ñar un pap el 
+importante.22
+Una ciencia funciona normalmente mientras acepta y des arrolla un 
+paradigma de explic ación de termi nado (un sistem a de prin cipios, supuest os y 
+creencias), pero se revoluciona cuand o lo aba ndona y asume otro opuesto. Un 
+                                                 
+21 Poppe r, La lógica de la inv estigación cient ífica, 73-88 y 1 03. Cf. Daro s, Teoría del aprendizaje  reflexivo  
+(Rosari o: Instituto Rosario de Investigaciones en Ciencias de  la Educación, UNR, C ONICE T, 
+l993), 21. 
+22 Thomas Kuhn , Estructura de las revoluciones científicas (Madrid: FCE, l975), 237. Cf . Thomas 
+Kuhn, La tensión esencial. Es tudios se lectos sobre la tradi ción y el cambio en el ámbito de la ciencia  (México:  
+FCE, l98 2), 137. 
+Enfoques XIV, 1 y 2 (2002): 73-112 95
+
+WILLIAM  R. D AROS   
+conocimiento (o te oría) de ja, pues, de s er científico por m otivos más bie n 
+irraci onales o ideológicos  propios  de la  psic ologí a social y del c ambio de 
+mentalidad c onducido po r diversas pre ocupaciones e in tereses. 
+  
+Problemas  Ciencia  norm al 
+(Geocentrismo) Anomalías 
+Crisis Ciencia  norm al 
+(Helio centrismo) 
+     
+Varios intento s 
+de solución  Paradigma Revolución 
+Científica Nuevo 
+Paradigma 
+     
+ 
+  Inconmensurables 
+entre sí  
+Kuhn  estima que los c ambios en las ciencias no se deben tanto a la 
+refutación de la s teorías, ni a la creación  de n uevas teorías por inducció n, sino 
+a anomalías, a incapacidades crecient es para resolv er problemas,  generándose  
+mom entos de  crisis en las teorías y en el modo de c oncebir l o que e s cienci a y 
+lo que no lo es. En  este proceso se dan varios mom entos: (a) Una teoría es 
+aceptada com o científic a por un grupo de personas especi alizadas en esos 
+problemas, generándose  una me ntalidad, un model o o paradigma de  lo que es  
+científic o: la c iencia entonces asume u na nor ma de  lo científic o, se normaliz a 
+(ciencia normal). (b) Ma s cuando, por diversos motiv os (por ejem plo, 
+complejidad de la te oría, numer osas exce pciones que no pueden ser  
+interpretadas dentr o de la teoría, y no sólo por refu tación lógica), esa ciencia 
+normal e ntra en crisis. (c ) Los cien tíficos buscan e ntonces o tras m aneras de 
+pensar los problemas con teorías opues tas a las anteriores. Se  produce un a 
+revoluci ón científi ca, y se gene ra m ás o me nos l entamente (d) u n nuev o 
+paradigma de  la cie ncia normal, abando nándose  el paradigma anterior. Así s e 
+pasó del g eocentrismo al  heliocentri smo. Entonces estos d os paradigmas  
+pueden r esultar inc omensurables: l o que e s “un hec ho” en un paradigma n o lo 
+es en el otro; lo que es pl aneta en el modelo ge océntrico (el  sol que gir a 
+alrededor de la tierra) no lo es en el otro (d onde l a tierra se conv ierte en 
+planeta).23
+                                                 
+23 Esth er D íaz, La posciencia. El conocimien to científico en las post rimería s de la modernidad  (Buenos 
+Aires: Bib los, 2000), 72. Daro s, “El co ncepto de revolución científica en  la ép oca moderna”, en 
+Daros,  Razón e inteligencia (Géno va: Studio  Edito riale di Cultura, 198 4), 85-126. 
+ Enfoques XIV, 1 y 2 (2002): 73-112  96
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+Por su parte,  para el epistemólog o Imre  Lakatos, u n conocimi ento o 
+una te oría dej an de ser cie ntíficos cuando car ecen de capaci dad par a sugeri r 
+nuevos hechos, da tos o teorías, y po r no producir  nuev os pr oblemas; esto es, 
+caduca por u n problema d e limitación he urística i nterna. Un a ciencia consiste 
+en un enorme pr ograma de  investigaci ón con: (a) un núcleo firm e de hipótesis  
+con capacidad heurís tica, (b) protegido por un cinturón de hipótesis auxiliares  
+que se modifi can con mayor flexibili dad según las  anomalías que aparecen. No 
+existen experi mentos cru ciales por l os que  las teorías dejan de ser ci entífi cas, 
+sino que esto sucede le ntamente cuand o las teorías dejan de tener poder 
+heurís tico y no posibilitan enco ntrar o sugerir nuev os hechos.24
+¿Cuándo deja de ser científico un conocimiento o una  conjetura? 
+                            
+POPPER KUHN LAKATOS 
+                                  Cuando el conocimiento o 
+la conjetura es f alsado por 
+los enunciados empíricos 
+básicos. Cuando un p aradigma, o 
+un modelo de  lo que es 
+ciencia, es abandonado 
+por otro. Cuando un programa de 
+investigación (con un 
+núcleo firme) es de he cho 
+abando nado po r otro. 
+                 
+Causa: Contradi cción entre la 
+teoría y lo s enunciados 
+básicos que remiten a obser-
+vaciones. Causa: Camb io en  la psi-
+cología social, o  en la men-
+talidad con re specto a otro 
+modelo o par adigma. Causa: Lenta pérdida del po-
+der heurístico del programa y 
+elección de  otro más f ecundo 
+en sugerir hechos. 
+Por otra parte, el epistem ólogo P aul Feye rabend esti ma que no hay u n 
+criterio para e stablecer qué es ciencia y q ué no lo es. Todo criterio es cread o 
+por l os hombres y n adie tiene que ate nerse a ellos,  porque e n general los 
+científicos no hacen m ás que po nerse del lado de los podero sos o de  quienes 
+les pag an, y afirman lo que a éstos les gusta oír . “La ciencia es un proces o 
+histó rico c omplejo o het erogéneo”, don de la razó n con fre cuencia es dejada 
+de lado. No hay e n realidad  un cri terio para estable cer qué es cie ntífico y qué 
+no lo es. El  epistemól ogo es un anar quista:25 todo vale; todo sirv e para el 
+progr eso; el científico no de be fidelidad eterna  a ninguna  norma. La idea  de un 
+                                                 
+24 Imre Lakatos,  La metodología de los  progra mas de inv estigación cient ífica (Madrid: Alian za, l983), 66-
+68. 
+25 Paul Fey erabend, Trata do contra el método  (Madrid: T ecnos, 1981), 133, 177, 7. 
+Enfoques XIV, 1 y 2 (2002): 73-112 97
+
+WILLIAM  R. D AROS   
+método fij o, o la idea de u na teoría fija  de la ra cionalidad, descans a sobr e una 
+conce pción ex cesivam ente i ngenua del hombre y de su contorno soci al.26
+En las cie ncias se raz ona a par tir de lo s probl emas que entr an en 
+conflicto con las teorías vig entes asumidas. 
+Como dijimos , el núcleo de una inve stigación cientí fica está dado por 
+la teoría. Una teoría im plica proposiciones (juicios ) hipotéticas se cuenci adas, 
+de modo que  una proposición explicit a más en la siguiente los hechos que 
+pretende expli car.  
+En una ciencia se da una ci erta jer arquía e pistemológica: 
+1. Existe n problemas, puntos de par tida problemáticos. Éstos im plican ideas 
+(y palabras y objetos a los cu ales ellas remi ten) en conflicto. 
+2. Inter pretaciones de esos hechos: las hi pótesis, las cuale s son suposici ones 
+para soluciona r los problemas, que deb erán so meterse a pruebas o 
+validaciones. 
+3. El co njunt o sistema tizado de hipó tesis —algunas de las cuales parece n 
+confiables— gener ales (por su nivel de abstra cción), consti tuye un a teoría. 
+Aún así, no t oda teorí a es una ma croteoría, capaz de ex plicarl o todo en un  
+campo de  conocimientos. Existe n mic roteorías que se  aplic an a se ctores 
+problemáticos reducidos. Tamp oco todas  las teo rías po seen un alt o nive l 
+de abstr acción; algun as son sólo una g eneralización de hec hos em píricos 
+aislados. 
+4. El conju nto de teorí as (a veces com plementarias, a veces rivales ), en 
+relaci ón con ciert os pr oblemas delimitados y estudiados po r los  
+científic os, constituy e una ciencia. La  sociologí a, por ejemplo, estudia a la 
+sociedad, pero desde la per spectiva de  qué es l o que hace que l os hombre s 
+sean socios. En ella se pu eden conten er teorías (interpretaciones de nivel 
+teórico) rivales (o aparentemente rivales) com o éstas: “El consenso en pos 
+de un bien común co nvier te a los h ombres aislados e n socios”; o bie n, “El 
+conflicto de l os intereses privados y la s luchas que  provoca entre ellos, los  
+lleva a c onstituir un pac to social para obtener los bienes privados”. 
+ 
+                                                 
+26 Ibid., 12. Cf. Daros, “E l apre ndizaje para u na soc iedad libre según Fe yerabend”, Revista  
+Española de  Pedago gía 82 (1989): 99- 111. 
+ Enfoques XIV, 1 y 2 (2002): 73-112  98
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+Jerarquía epistemológica: 
+Probl ema Hace que se invente una 
+Hipótesis   Conjunto de hipótesis 
+Una teoría Conjunto de teo rías 
+Una cie ncia  Conjunto de c iencias 
+Ámbito del saber científico 
+¿Cómo entra, en este esquema, la id ea de ley, tan utilizada por algu nos 
+científic os? Ante todo, convengamos en que una ley establec e una relaci ón 
+constante. Además de la f unción de re gular co nstantemente una conduc ta 
+(leyes  morales, soci ales),  las le yes científicas expresan y  explican u n 
+comportamiento regular o constante. Est a relaci ón, al ser co nstante, puede ser  
+reiter adam ente observad a (ley observacional), provocada o ex perimentada (ley 
+experi mental) y men tal o abstracta (ley teórica). U na ley es la c onstatación y 
+formulación - con cr eciente grado de id ealización- de  una cons tante entre 
+fenóme nos. L a ley procede  de la experie ncia, pero no surge inmedi atame nte. 
+La experie ncia es individual, la ley que se deduce es gener al; la ex periencia e s 
+sólo a proximada, la l ey es precis a o por l o menos pret ende s erlo. L a 
+experi encia se  hace e n condiciones siem pre c omplejas; el enunci ado de la ley  
+elimina esas compl ejidades.27
+Si entendem os por le y —por lo que se refiere a su conte nido— u na 
+relaci ón constante, previsibl e para cada caso det erminado o ac ontecimien to, 
+entonces las l eyes se dan e n aquellas ci encias que tratan con aconteci mientos u  
+objetos no sometidos  a la libertad. E n consecue ncia, no hay que esperar leyes 
+—sino tendencias aproxi madas o probab ilísticas, cálculo de frecuenci as, 
+interpretación de pro pensiones, tentativas para m edir la in certidumbre d e 
+medir, e tc.— en  aquellas c iencias donde  intervengan hom bres co n acci ones 
+libres, o aco ntecimi entos a zarosos.28 Mas una ley, aun siendo ley, pu ede ser 
+asumida co mo un pri ncipio para expli car los he chos, co mo un a teoría o co mo 
+                                                 
+27 Hen ri Poincaré, El valor de  la cienci a (Buen os Aires: Espasa-Calp e, 1977), 95. 
+28 Cf. Poppe r, La lógica de la inv estigación cient ífica, 144-147, 157-158. Kar l Popper, “Observaciones 
+sobre las teo rías objetivas de la p robabilidad”, en  Realismo y objetivo de la ciencia  (Madr id: Te cnos, 
+1985), 387. 
+Enfoques XIV, 1 y 2 (2002): 73-112 99
+
+WILLIAM  R. D AROS   
+una hipótesis (o sea, como lo que s e supon e para explicar un hecho). Con  una 
+ley se ex plica el funci onami ento de alg o, no lo que algo es. 
+Finalm ente, q uizás se pue dan dar algu nos cri terios ideales de una 
+“buena te oría”, per o difíci lmente se cu mple n todos.  Estos cri terios, sin 
+embargo, hacen raz onablemente ac eptable a una t eoría. Un a bu ena t eoría, 
+pues, debería ser: 
+1. Precisa en su terminología, en sus definici ones, en su forma de razonar. 
+2. Coherente internamente (esto es, no  contradic toria consig o misma)  y 
+exter namente (con otras teorías ace ptadas). 
+3. Amplia  o fecunda: Sus c onclusi ones deben  explicar todos l os casos  
+problem áticos conocidos en un c ampo ci entífico, y sugerir  nuevas  
+explic aciones, más allá de l o observ ado o explicad o has ta el mom ento. 
+4. Simple: La te oría que con menos supues tos expli ca más cons ecuencias es 
+mejor que la q ue requiere más supu estos para explicar lo mismo. 
+No obstante, la historia de la ciencia ha demostrado que  la elección de 
+una te oría o su exclusión no si empre depe nden de razo nes o fac tores 
+objetivos. El ser humano no es siempre raci onal, ni sus elecci ones tie nen 
+siempr e razones fundadas f uera de sus caprichos, intereses o deseos. 
+El marco te órico, en un a invest igación, es el eje de la misma  y 
+da unidad a toda la investigac ión, encuadrando el problema y 
+orien tando el  diseñ o metodológ ico. Al ser construido, supone que: 
+1. El científic o conoc e las te orías vi gentes en su cienci a: los conc eptos  
+fundame ntales, los prin cipios que la rige n.  
+2. Se hall a familiarizad o con el voca bulari o de su cien cia o saber, conoce la 
+historia de la misma, el surgimient o y de sarroll o de los  problemas que ha  
+enfrentado. 
+3. Posee  información actualiz ada so bre el modo de  enfrentar los problemas 
+actuales de su ciencia. 
+4. Mas, dado que los co nocimien tos que  el cien tífico posee no e xplica 
+algunos problemas, re aliza al men os una hipótesis p ara dar respuest a a un  
+problema planteado. 
+Cuando surge  un problem a, ello se debe a que las teorías vigen tes no 
+llegan  a explicarlo, y urge  inven tar una nueva hipótesis que, in tegrada c on 
+otras, puede c onsti tuir un n uevo mar co teórico: una nueva teoría.  
+ Enfoques XIV, 1 y 2 (2002): 73-112  100
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+El orige n de un nuevo m arco teórico se halla en la g eneración de, a l 
+meno s, una nueva  hipótesis. 
+Como dijimos , una hi pótesi s (que según su origen gri ego es una “su–
+posici ón”) es una f orma de  consider ar o interpretar las cosas; es un s upuesto o 
+una sup osición con la cual se tr ata de expli car al m enos un he cho 
+problemático.  
+Una hi pótesis supone al m enos dos vari ables e n jueg o: un fac tor o 
+causa (llamada variable independient e) y un efec to (llamado va riable 
+dependie nte). Frecu entemente los fenómenos no tienen una sola causa, sin o 
+que se ex plican por una pluralidad de  causas  o factores. Indudable mente 
+pueden existi r otras variables, llamad as intervi nientes, que son co ndiciones  
+para producir el efe cto. Una condici ón es algo que se r equiere pa ra explicar  el 
+efecto, aunqu e no s ea la causa principal del mismo: por ejemplo, para que hay a 
+luz solar en un cuar to se requiere c omo condici ón que las ven tanas o las 
+puert as estén abiertas, aunque ellas no sean la causa  que pr oduce  la luz  y 
+solament e permit en su ingreso. 
+ 
+Variable independient e: la(s) causa(s) o factor princ ipal.
+Variable  depen diente: el (los ) efecto(s). HIPÓTESIS 
+Variables interv inientes: la s condiciones o concausas. 
+ 
+Surgen, de est e modo, algunos cri terios par a establecer una hi pótesis. 
+Al investiga r, el investig ador conoce ante todo -y al m enos- una var iable ( el 
+efecto o la causa), y postul a y busc a la otra (por lo cual se de ben establecer 
+referentes o indicador es empíri cos d e las vari ables conce ptuales); lueg o 
+advierte  las condici ones nec esarias en las cuales s e produce.  Cuando el  
+investig ador f ormula un problema se p regunta, ante todo, por un a de las dos 
+variables ( por ejem plo: ¿ Por qué los  obre ros de  tal fá brica se hall an 
+insatisf echos en sus trabajos?). Cuand o el ci entífico formula u na hipótesis 
+afirm a una rel ación entre va riables que deber á ser con firmada o refu tada (p or 
+ejemplo: l os obreros de  tal fábri ca se hallan insatisfe chos por el mal t rato 
+patronal ). Si la investig ación es empí rica, se deben se ñalar el ti empo y lugar en 
+que se produc e la causa o el efecto a investigar. 
+ 
+ 
+Enfoques XIV, 1 y 2 (2002): 73-112 101
+
+WILLIAM  R. D AROS   
+Criterios para 
+establecer una 
+hipótesis Los jui cios expresados 
+deben ser claro s y en for ma 
+afirm ativa. Deben referirse a un solo  
+problema por v ez y plan tear 
+una relación entr e dos o 
+más v ariables. 
+   
+ Si es e mpírica, debe indicar 
+el tiempo y lugar. Debe posibilitar someter a 
+prueb a las relaciones 
+expresadas, contando  con 
+referentes empí ricos. 
+Construir un marc o teórico implic a comenzar a construir una p osible 
+explic ación p ara un a situa ción problemática. Constru ir una expli cación, sin 
+embargo, no siempre su pone e ncontrar una causa real a un a cos a o 
+acontecimi ento. A  veces —como cuand o escri bimos un relato, una novel a, o 
+realiz amos la descripci ón d el estil o de vi da de un pu eblo— supo ne dar un  
+sentido  a los fenómenos; describirl os en una totalidad en donde las p artes 
+adquieren s entido. En este caso, lo que causa la explicación es una idea que, en 
+su universalid ad, implica las  partes  y así las explica dándoles un  sentido. Per o 
+una ex plicación ple na no parece ser tal si no se lleg a a una causa que justifique  
+el surgimiento del fenómeno, su desarroll o y mutuas i mplicancias 
+(expli caciones gené ticas, dia lécticas). Mas,  al ex plicar m ediant e causas -según  
+Aristóteles-, no sólo importa la caus a eficiente, también intervienen la caus a 
+final, l a instrument al y condicio nal, l a material y la form al o ese ncial. No 
+siempr e, sin e mbargo, se hallan t odas las causas de un fenómeno, por lo que  
+debem os contentar nos con descu brir sus leyes o algún otr o aspec to, y 
+debem os espe rar que el conocimi ento ci entífico se perf eccione en el f uturo. 
+ALGUN OS EJEMPLOS DE MARCOS TE ÓRICOS 
+Los m arcos teóricos los  construyen  —inventándolos—  los que hacen 
+un estudio científico de un problema. Mientras se sigue utilizando u na teorí a, 
+tenemos un desarr ollo n ormal de una ci encia; cuand o se inven ta un a contraria, 
+o totalmente nueva, nos h allamos e ntonces an te un a revolució n científica. 
+El científico no siempre puede ut ilizar teorí as ya cons truidas  y 
+desarroll ar un a ciencia; a veces debe r evolucion arlas c ambia ndo t otalmente la 
+teoría vigente o cre ando u na donde n o existía. 
+ Enfoques XIV, 1 y 2 (2002): 73-112  102
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+La revoluci ón coperni cana es un caso p aradigm ático de cambio de 
+teoría.29 La teoría geocéntrica, formulad a por Aristóteles (384-32 2 a.C.), 
+respo ndía al sentido común y al conocimi ento cotidiano. Ella puede  
+prese ntarse con las siguien tes prop osiciones: 
+1. El cosm os es una esf era vasta pero finita, cuyo c entro es la Ti erra y cuyo 
+límite es la esfera de las estrellas fijas. 
+2. Bajo la esfera fija s e hallan los planetas q ue son sustancias incorruptibles  
+movidas por inteligencias que as piran a ser perfectas como el Motor 
+Inmóvil, causa final del uni verso. 
+3. La Tierr a es el centr o del universo; per o rodeándola se halla el agua, luego 
+el aire, despu és el fuego (al  fuego superi or se le llam ó éter). Des pués del  
+éter, se hallaban las esfer as cristal inas, en las que esta ban inser tas y 
+transportadas por ellas los planetas: la Luna, M ercurio, V enus, el Sol, 
+Marte, Jú piter y Saturn o, y p or últim o las e strellas fij as. 
+Claudio Tolomeo de  Alejandría (s.  II d.C.) observó —y los cálculos l o 
+confirma ban— que el movimient o de lo s astros no era perfectamente circul ar; 
+los astros par ecían alej arse o acer carse del movimie nto circular. A hora bi en, 
+Tolomeo, para seguir sosteniend o la te oría geo céntrica, creó un a hipótesis ad 
+hoc (la ex plicación de u na excepción). Sostuvo que los  astros gir an en forma 
+circular;  pero sobre  ese ciclo o círcul o ellos posee n otro movimie nto circul ar 
+(epiciclo), por lo que de hec ho se mueven en la forma de un círcu lo 
+espiral ado, ju stificándose d e este modo  que los astro s parez can acercars e y 
+alejars e un poco, retroceder a ve ces y  adelantar otras. Esta fue un a evolució n 
+de la teo ría geocéntrica. 
+Nicolás Copérnico (1473- 1543) propuso la teoría heliocéntrica, 
+provocando u na rev olució n cientí fica, pues no desarr olló el mismo principio 
+que Arist óteles —lo  que s ólo habría hecho evolucio nar la teoría—, sin o lo 
+cambió por u no opuesto: 
+1. El Sol, fijo, se halla en el centro del siste ma celeste.  
+2. La Tierra y los demás pl anetas gira n en torno a él. 
+Sus seguidores (Kepler, Galileo, Ne wton) expli carán l uego, con una 
+nueva física, los movimientos elípticos y las leyes del movi mien to, desca rtando 
+la hipótesis de las inteligencias celes tes. 
+                                                 
+29 Cf. Kuhn, La rev olución copernicana  (Barcelo na: Ariel, 1991). 
+Enfoques XIV, 1 y 2 (2002): 73-112 103
+
+WILLIAM  R. D AROS   
+Esta nueva teoría, d onde el astro rey, el Sol, ocu paba el lugar que l e 
+corresponde a un rey, suponí a ir cont ra el sentido c omún y las e videncias  
+sensibles:  ahora se de bía afirmar que l a Tierr a se mueve aunque no parezca 
+movers e, y que el S ol estaba fijo por más que lo viér amos apar ecer en el es te y 
+desapa recer en el oes te. El  hom bre m oderno reali zó la (aparentemente loca) 
+aventura de dejar de creer en los sent idos y cree r en los argume ntos de la 
+razón. “Es toy más seguro de mis juic ios que de mis ojos” afirmará luego 
+Diderot.30
+Las ideas de Galileo Galil ei crearon un nuevo marco teóri co para la 
+física mode rna, revoluci onando la físic a aristo télica. Aristó teles c oncebía el 
+mundo es táticamente; y para que alg o se movi ese se debía admitir  un ac to. 
+Galileo supuso -como lo había hecho Demócri to- que el movimi ento er a 
+eterno y no se requería  de n ada m ás para explic arlo (lo que dará orige n a la ley 
+de inercia); pero lo que se debía ex plicar eran los cam bios en el mov imiento.  
+La geni alidad de los grande s científi cos se manifiesta no solo en la capacidad 
+de sistemati zar un modelo teórico y e n saber argumentar en su favor, sino 
+sobre todo en tener el c oraje de pens ar en forma dife rente, f recuentemente, e n 
+contra de l o percibid o sens orialmente. 
+Veam os, en forma confrontada, l as proposicio nes que  cons tituyeron 
+los dos marcos teóricos en una u otra teoría física:31
+ARISTÓTELES  GALILEO  
+1. Los cuer pos corruptibles t ienden a 
+perder el movi miento  que se les ha 
+comuni cado si ninguna cau sa externa 
+obra sob re ellos. 1. Los cuerpos tienden a conservar el 
+movimiento  recibido y no pueden 
+modifi carlo ni  en gran deza ni en 
+dirección sin la acción  de una causa 
+externa. 
+2. El movimi ento circular de lo s planetas 
+se conserva in mutable, porque es 
+movimiento  perfecto  y los  planetas son 
+incorr uptibles . 2. El movimi ento circular cambia 
+continuamen te de dirección y se deb e, 
+por lo tanto, a l a acción contin ua de 
+causas ex ternas. 
+3. Para man tener un cu erpo en  
+movimiento  se necesita  la acción 
+continua  de una fuerza. 3. Un cuerpo se man tiene por sí mismo  
+en movi miento , y la acción de una f uerza 
+varía el movimi ento p reexis tente. 
+                                                 
+30 Dionisio  Dide rot, Pensamiento s filosóficos  (Buen os Aires: Aguilar, 1973) , 63. 
+31 Cf. D aros, “El concepto de ‘rev olución científica’ en la ép oca moderna”, en  Daros, Razón e  
+Inteligencia, 108. 
+ Enfoques XIV, 1 y 2 (2002): 73-112  104
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+4. El movimi ento de los  cuerp os que 
+caen es natural, y po r eso, si un  cuerpo 
+cayese en el vacío se move ría con 
+movimiento  uniform e. 4. Si un cuer po cayese en el vacío se  
+movería  con un movimien to 
+natur almente acelerado.  
+5. El aire que se cierra sobr e el cuerpo 
+pesado que cae  le impr ime a cada instante 
+un aume nto d e velocidad. 5. El aire, dentro de l cual el cuerpo se  
+muev e, le qui ta a cada  instante grados de 
+velocidad. 
+6. La velocidad de caída es directamente 
+proporcional al  peso de los cuerpos que 
+caen. 6. La velocidad de caída es igual para 
+todos  los cuerp os, cualesquiera sea su 
+peso. 
+7. La velocidad de caída es directamente 
+proporcional al  espacio recorri do. 7. La velocidad de caída es directamente 
+proporcional al tiempo transcurrido . 
+ 
+Veam os, brevemente, un marco teórico tomado de la psicol ogía y útil 
+para la admi nistraci ón de r ecursos hum anos. 
+Kurt L ewin32 trató de  compre nder el comportamiento huma no 
+estableci endo dos supuestos  teóri cos básic os: 
+1. El co mportamiento humano de pende d e la totalidad de los h echos que 
+coexis ten y lo rodean. 
+2. Esos he chos coexistentes  forman un campo dinámic o (o c ampo 
+psicol ógico) en el cual  cada parte depend e de l a totalidad en interacción 
+dinámic a con los demás h echos.  
+ De estos dos supuestos bá sicos, derivaron otros: 
+3. El cam po psicol ógico implica a la  perso na y al ambi ente de 
+comportamiento. 
+4. El am biente de co mportamiento es lo que la persona (con características  
+genéticas y un proceso de aprendizaje) percibe e inter preta del ambiente  
+exter no relacionado con su s necesidades actuales. 
+5. En ese ambiente, los objetos, pe rsonas y situaci ones se carg an de valor  
+positiv o si ayudan a sati sfacer su s necesidades y  negativ o en cas o 
+contrario. 
+                                                 
+32 Cf. Kurt Lewin, A Dinamic T heory of Personalit y (New York: Mc. Graw-Hill, 1935). 
+Enfoques XIV, 1 y 2 (2002): 73-112 105
+
+WILLIAM  R. D AROS   
+Com o se advi erte e n este caso, lo s conceptos co mienzan a definirse o 
+explici tarse desde adentr o del marc o teórico. La p ersona es en tendida com o 
+dotada de  característic as biológic as y poder  de ap rendizaje; el val or “positiv o” 
+está ref erido a satisfac ción de necesid ades. La necesidad de expl icitar  las 
+referencias conceptuales sur ge desde dent ro del m arco teórico, y no como un 
+marc o conceptual inde pendient e de él. 
+Según est e marco teórico y estos supu estos, el c omportamiento es 
+interpretado como el resulta do variabl e de la inter acción entre cada persona y 
+su ambi ente. Por esta interacción, una persona percibe su mu ndo circundan te 
+de modo diferen te a otra pers ona en ese mism o mundo cir cundan te. 
+Com prender l a conduc ta de  una perso na implic ará, seg ún esta te oría, estudiar 
+las c ondici ones biológi cas de esa  persona, su m odo de i nteractuar c on el 
+medio, el val or que ell a carga a su mu ndo según sus necesidades satis fechas o 
+frustradas. 
+Otro m arco teórico psic ológico ace rca del comp ortamien to del se r 
+humano, que indique la compl ejidad d e las carac terísticas del  hombre  que 
+entra a formar parte de l as orga nizaciones huma nas, podría resumi rse en l as 
+siguientes c onstataciones tomad as com o principios:33 (a) El hombre es tá 
+orientado hacia la actividad, (b ) es soci al, (c) tiene necesidades diversas, (d) 
+actúa y perci be, (e) pi ensa y elige, (f) p osee cap acidad  limitada de respuest a. 
+Estos pri ncipios son he chos o inte rpretaciones confirmabl es co n hech os 
+observ ables, y en  ese s entido, no son conceptos teóri cos; por ello, 
+aisladam ente, no c onsti tuyen aún una  teorí a. Par a elab orar u na teoría es  
+necesario for mar un enun ciado o un a serie de enu nciados de nivel abstr acto 
+por su generalidad, que podrían formularse así: 
+1. Toda organiz ación es el armado o tramado dinámico de medios para 
+lograr u n fin. 
+2. Todas  las organiz aciones huma nas s on sistem as or ganiz ados por los 
+hombres con distintos medi os par a distin tas finalidades.  
+3. Para s er huma nas y eficaces, las o rganizaciones debe n respetar y potenciar 
+las car acterísti cas del hombre, de mo do que éste no se a sól o un m edio 
+sino ta mbién una fin alidad en la org anización hum ana, para el h ombre 
+mismo y par a la organización. 
+                                                 
+33 Idalberto C hiavenato,  Administ ración de recursos humanos  (Bogotá: Mc Graw-Hill, 1993),  69. 
+ Enfoques XIV, 1 y 2 (2002): 73-112  106
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+Esta f ormula ción abstracta (“t odas las  orga nizaciones”) co ntiene, 
+median te sus  pos tulados, algunas constataciones que  no s on teóricas sin o 
+observ ables, mediante indi cador es empí ricos (por ej empl o: indicadores de  
+respe to, de potencialización de algun a característica d el hombre). Luego de l 
+enun ciado  teórico se deberá aclarar o definir los  conceptos fu ndame ntales qu e 
+intervi enen en el marc o teórico a través de sus supuestos: ¿Qué es “actividad”, 
+cualquier acci ón? ¿Qué entender emos por “ necesidad ”, por “ actuar”, por  
+perci bir”, por “pensar”, por “elegir”, etc.?  
+Com o se advierte, l a referencia conceptual se despr ende del m arco 
+teórico; pero no existe  un marc o conceptual previ o e independiente del marco 
+teórico. 
+Veam os un marc o teórico para comprender l os problemas de l a 
+administr ación. Po r cier to, un  ma rco teórico no sie mpre aparece 
+explíci tamente enu nciado en l os tex tos o en la prese ntación de un a 
+investig ación. Frecue ntemente aparece como u n conjun to coordinado d e 
+principios. El principio más gener al suele s er el eje de la teoría. 
+He aquí los princi pios de l a teorí a del equilibrio en el ámbito de l a 
+administr ación34 regidos por la idea de sistema. 
+1. Una or ganización es un sistem a de conductas so ciales  relaci onadas entre 
+sí, de  cierto número de pers onas a quienes llamaremos participantes. 
+2. Cada participante y cada grupo de  participantes reci be del org anismo 
+alicie ntes en compensación de sus aport es al orga nism o. 
+3. Cada p articipante continuará figurand o en una or ganización mie ntras los 
+alicientes qu e se le ofrecen s ean tan  gran des o ma yores que la s 
+aportaciones que le exigen.  
+4. Las a portaciones de l os varios gru pos de par ticipantes constituyen la 
+fuente de donde el org anismo extrae l os alicie ntes que ofrec e a los  
+participantes. 
+5. De aquí que un organismo cont inuará existi endo mien tras las 
+aportaciones sean sufici entes par a crear los alici entes nec esarios par a 
+obtenerlas. 
+                                                 
+34 Jorge Hermida, Ciencia de  la ad ministración  (Buen os Aires: Edicio nes Contabilidad, 19 89), 250. 
+Enfoques XIV, 1 y 2 (2002): 73-112 107
+
+WILLIAM  R. D AROS   
+Es sabido que Henr y Fayol, que dio origen a la es cuela clásic a de la 
+administr ación, no partió de la idea de  sistema, sino que su teoría de la 
+administr ación se fundab a en la idea  de gobier no: administr ar es sabe r 
+gobernar los recursos para obtener un fin. En consecuencia , de esta hipótesis 
+y de este principio, deriv ó los siguientes conce ptos cl aves, c ontenid os en la 
+idea de bu en gobi erno, q ue luego explicitó.  Admini strar supone entonces : 
+prever , organizar, dirigir, coordinar , contr olar. 
+Con es ta te oría acerca de  la adminis tración, Fay ol podía  adver tir 
+dónde est aban los pro blemas de la administr ación, cuáles era n las fallas,  
+organizar un mét odo p ara solucio narlas y, puesto en práctic a, conocer l os 
+resultados y el valor de su teoría.35
+El médico Selye desarrolló, en 1978,  una teoría para determinar el 
+grado de ada ptación de un a perso na a la tensión . En ell a postul ó: 
+1. Que el cue rpo de una pe rsona res ponde  a demandas especí ficas de  estré s 
+(tensión) m ediant e el síndr ome g eneral de adap tación, el cual fun ciona 
+producie ndo l a adap tación, si tiene éxito, o bie n la mue rte. 
+2. El estrés puede ser i nterno o externo con res pecto al i ndividuo,  y se 
+mani fiesta con cam bios inducidos de maner a inespecíf ica en el cuer po de 
+la pers ona. 
+3. El síndro me gener al de adaptación tiene tres fases:  (a) fase de  alarma, (b) 
+fase de adaptación o resistenci a, (c) fase d e agotamiento. 
+Aceptad os es os postul ados, la teoría de Selye  puede expresars e 
+mediante los siguientes enunciados:                            
+1. El ser huma no alcanza un determi nado estado ( por ejemplo: reducci ón de  
+la tensión) al activar mecanismos gen erales de defensa  del cuerpo con el 
+fin de pres ervar la vida. 
+2. Cuando el cu erpo inte nsifica deter minado meca nism o de defensa para 
+afrontar las fuent es de t ensión (como in cremento de l a actividad 
+muscular), l a gran actividad  de los mecanismos específi cos ces a y cie rtos 
+mecanism os especí ficos actúan e n forma excesiv a (por  ejemplo: se 
+incre menta el aporte de oxígeno dura nte la actividad mus cular). 
+                                                 
+35 Cf. Henry  Fayol , Principios de la administración industrial y general  (Buenos Aires: Aten eo, 1969).  
+B. Klilsb erg, El pensamiento organizativo: del tayloris mo a la teoría de la administración (Buenos Ai res: 
+Paidó s, 1993). 
+ Enfoques XIV, 1 y 2 (2002): 73-112  108
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+3. Si los meca nismos de defe nsa es pecífi cos no b astan para confirmar la 
+tensión, se re activan los m ecanismos ge nerales de defensa p ara ayudar al 
+cuerpo a ajustarse o se produce la muer te. 
+Claro está que este m arco teórico requiere  luego un a aclaración de los  
+conceptos implicad os en él  como “tensión”, “def ensa”, “adaptación”. Por otra 
+parte, como en toda te oría, se supon en en ella algun as hip ótesis, por ejem plo, 
+que existe r elación e ntre la tensión y l os mec anism os de defens a del cuerpo 
+que se activa n para afrontarla.36
+¿CÓMO SE HI CIERON A LGUNOS MARC OS TEÓRI COS? 
+Las hipótesis, las teorías, la s cie ncias se construyen. Los 
+conoci mientos quedarán sin ser cien tíficos si  alguien n o los trat a 
+científic amente. 
+Para realizar un m arco teórico se  requiere, ante todo, un buen 
+conocimiento actuali zado s obre el pr oblema que se presenta. Sól o quien es 
+capaz de a nalizar el problema a través de  las teo rías vig entes y c omprender sus  
+límites está  en co ndiciones de p roponer otra. 
+En es te contexto, veamos  cómo Torricelli inv entó la teoría de l a 
+atmósfera. I ndudablemente la atmósfer a existía, pero antes de Torricelli no 
+teníamos su t eoría, como antes de N ewton exis tía la gravi tación universal,  
+pero ella n o era ex plicad a con l a teoría de Newt on, s ino con la teoría que  
+suponí a que las cosas n aturales tie nden a sus lugares natur ales: t odo lo que  
+tiene tier ra tiende a unirse a la tierr a, lo q ue tien e agua a unirse al agua. Evan -
+gelista Torri cellli (1608 -164 7) se encontró  con el probl ema de que las bombas  
+de agua, en su tiemp o, no podían el evar el agua a una altur a mayor de los  
+10,30 metros, sin que se pudiese enc ontrar una c ausa para ex plicar este he cho. 
+Torricelli s acó, entonces, algunas conjet uras que intentaban s er soluciones  
+tentativas para explicar el problema.  
+En o tras palabras, c reó una teoría r elacionando tres proposiciones. 
+Supuso, como lo habí a hecho Galileo, que:  
+1. El aire pesa.  
+                                                 
+36 Den ise Po lit y Bernadette Hun gler, Investigación científica en  las cienci as de la salud (México: Mc 
+Graw Hill, 1996), 117-118. 
+Enfoques XIV, 1 y 2 (2002): 73-112 109
+
+WILLIAM  R. D AROS   
+2. Conjetur ó, ad emás, que for maba una c apa alrededor de  la tierra y que era  
+más dens o en las proxi midades de la  tierr a (lo que ho y lla mamos 
+“atm ósfer a”, “esfera de v apor”). 
+3. El aire se comportaba en forma se mejante a como lo hacen l os líquidos (l a 
+presió n en un pun to del  líquido o del aire es in dependie nte de su 
+dirección). 
+La prim era pr oposición ya era c onocida y la ter cera lo era en parte. 
+Por ello, se suele afirmar  que la creac ión de una teoría no es una mer a 
+casualidad, sino que surge en una ment e preparada para ella: incluso l a 
+casualidad es fecunda s ólo en una me nte prep arada p ara asumirl a y explo tarla 
+teóricamente.37
+La originalidad de Torri celli estuvo en unir estas c onjeturas, es tos tres 
+enunciados te óricos y ge nerales, y en construir de este  modo una teoría nuev a 
+para explicar el problema. Esta teoría, en su núcle o, encerraba una hipótesis 
+que debía ser confirmada o refutad a.  
+Galileo había elaborad o otra teoría, otra soluci ón tentativa: Según él, 
+el agu a en el tubo de  la bomba se comportaba como una barra que  alcanzada 
+cierta altur a, se quebraba o rompía. Ésta era  una conjetur a estéril  que no 
+ofrecía forma de refut ación. Otros sup onían que  la naturaleza tenía “horror al 
+vacío”, en este cas o al vací o que pr oducía la bom ba al succionar y, por ell o, el 
+agua subí a para cubrir ese  vacío, pero no podía n explicar por qué no cubrí a el 
+vacío des pués de los 10,30 metros. 
+De acuerdo con las conj eturas de To rricelli, el agua no subía más de 
+10,30 metros  pues esa var a de agua er a el equivalente al  peso del  aire. El 
+émbolo de una bomba des aloja el aire por encima del é mbolo y liber a al agua 
+de la presi ón atmosférica. Para  elimi nar error es y asegurarse que el aire pes a, 
+Torricelli pus o entonces en marcha un a discusión crítica de evaluación para 
+con las teorías  rivales e ideó otro experi mento: si se tomara mercurio (con un 
+peso es pecífi co 14 veces mayor que el agua) la altur a límite has ta la que podría 
+llegar el mercurio en u n tubo v acío sum ergido e n una cubet a con mercuri o 
+debería ser 10,3 dividido 14 ; o sea, aproximadamente 7 6 centíme tros; en c aso 
+contrario de bería c onsider arse una teoría refutada. La teoría de Torri celli 
+resistió  esta refutaci ón y se consider ó refutada l a teoría contraria, qu e sos tenía 
+                                                 
+37 Cf. Davi d Bohn y  F. Dav id Peat, Ciencia, orden y  creatividad. Las raíc es creativas de la cien cia y de la  
+vida (Barcelo na: Kairó s, 1998), 42 . Abraham Mo les, La création cientifique  (Genève: K ister, 199 7). 
+René Tatón , Casualidad y accidenta lidad de los descubrimi entos científicos  (Madrid: Lab or, 1984). 
+ Enfoques XIV, 1 y 2 (2002): 73-112  110
+
+ ¿QUÉ ES UN MARCO  TEÓR ICO? 
+que “la natur aleza aborrece el vacío”. Esta te oría fome ntó la té cnica de 
+producir a rtificialment e más  de una at mósfera de va cío. 
+Tambié n en el ám bito de las ciencias s ociales y humanas, 
+frecue ntemente realizam os teorías, pero no siem pre resulta ser  una tarea fácil 
+el refu tarlas. Así, por ejemplo, Robert Malthus adver tía que  el crecimiento de  
+la po blación esta ba p roduciendo gra ndes cam bios. Gene ralizando est a 
+situació n inventó entonces una t eoría acerca del crecimiento poblacional que  
+alertó a los economistas. Él  estim aba que si la  teoría era verdade ra, entonces 
+acabarí a por hallar su confirmaci ón ex perim ental. Es cierto que Malthus  
+advertía la creciente necesidad de alimen to; pero su t eoría no nació de los 
+hechos sin o que él la inve ntó y ela boró.  
+Pues bie n, Malthus s entó dos postulados: 1º ) “El alimento es 
+necesario a l a exist encia del ho mbre”; 2º) “la  pasión entre los sexos e s 
+necesaria y se  man tendrá p rácticamente en su estad o actual”. Ase ntados estos  
+postul ados, pasó a generar una teoría, una conjetura que tendrí a consecuencia s 
+para la economía: “Consid erando acep tados mis pos tulados, afirmo que la 
+capacidad de  crecimi ento de la población es infi nitamente m ayor que l a 
+capacidad de la tierra para producir alimen tos para el ho mbre. La población, si 
+no encuentra obst áculos, aument a en progresi ón ge ométrica. L os alime ntos 
+tan solo aume ntan en progresión aritmética”.38
+Pero M althus era epistem ológicamente un verifi cacionista y  no un 
+falsaci onista, por l o que bu scó, p or todos los medios, afirm ar la ver dad de su 
+creada te oría. Metodológicamente le ayudaron los datos históricos que halló y 
+el razonamiento que les aplicó. 
+CONC LUSIÓN 
+Estimo que p odemos c oncluir advirtiend o que un mar co teórico es, 
+como sus palabras lo indican: 
+1. Un pun to de referencia que ubica, m ediante conceptos teóri cos (esto es, 
+abstr actos o de un cre ciente grado de abs tracción), un p roblema. 
+2. Es lo que da sentido al pr oblema y posibilita u n diseño m etodológico. 
+Éste ayuda  a encontrar la  solución  al problema, dent ro del co ntexto de la 
+teoría asumid a, sea p or falsació n, por con firmación o, mínim amente, 
+                                                 
+38 Robert Malthus,  Primer ensayo sobre la población  (Buen os  Aires: Altaya, 1997), 52, 53. 
+Enfoques XIV, 1 y 2 (2002): 73-112 111
+
+WILLIAM  R. D AROS   
+median te la forma de un a descrip ción coherente, con la cual se ex plica un 
+sentido o una causa al pro blema. 
+3. El mar co teórico no consiste en la posesión de conceptos suelt os (como si 
+pudiese existir  un marc o conceptual anterior a un m arco teórico), si n una 
+cohere ncia entre ellos: l a coherencia genera y llev a consigo l a teoría, una 
+interpretación abs tracta. Las  ideas el aboradas co herentemente constituyen 
+proposi ciones  y juicios; y éstos, a su vez, el aborad os cohere ntem ente 
+constituyen una teoría.  
+4. La exposición analític a de los conceptos suele estar precedida por l a 
+descripci ón d e una o num erosas si tuaciones problemáticas y sigue  a la 
+prese ntación sinté tica del marco teórico. El m arco teórico es un a toma d e 
+posici ón teórica: tiene aspecto de t esis en cuanto es una afi rmación o una  
+serie de afirm aciones; pero tambi én suel e conte ner hi pótesis en cu anto 
+algunas afirm aciones no son nunc a defi nitivame nte v erdaderas e n ciencia.  
+5. El ma rco teórico  contiene un a interpretación abstracta que posibili ta la 
+interpretación de mucho s problemas semejantes y la apli cación de 
+soluciones análog as. El m arco teórico, en efecto, contiene las causas 
+posibl es para la explic ación de los pro blemas que cubr e; por ello, el marc o 
+teórico, además de ma nifestar l os conocimientos sobre el t ema, da 
+coherencia lógica a los juicios o afirm aciones teóricas, y da oportu nidad a l 
+investig ador para la enunciación de la  hipótesis que deberá ser sometida a 
+validación (formal y/o empírica). 
+6. Si bien una teoría es una débil co nstru cción hum ana (por lo que  debe 
+some terse a constante proceso de  valid ación), consti tuye, si n embargo, 
+una luz que pretende guiar la prácti ca, apr ender de ella y ofre cer una 
+norma interpretativa para casos semej antes. El a ccionar práctico sin teoría 
+alguna,  se parece al caminar de un ci ego, como afi rmaba un vi ejo re frán 
+latino: “Practica sine t heoria, caecus in via ”. 
+William R. Daros 
+CONICET 
+Dirección: Amenábar 1238 
+2000 Rosario, Santa Fe 
+ARGENTINA 
+E-mail: daroswr@hotmai l.com  
+ 
+Recibido: 25  de mar zo de 2002 
+Aceptado: 30  de agosto de  2002 
+ 
+ Enfoques XIV, 1 y 2 (2002): 73-112  112
+
