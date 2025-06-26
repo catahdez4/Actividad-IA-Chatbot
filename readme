@@ -1,0 +1,33 @@
+
+
+## 📂 Archivos incluidos
+
+- `documento.pdf`: Archivo original del que se extrajo la información.
+- `extraer_texto.py`: Extrae y limpia el texto del PDF.
+- `crear_indice.py`: Fragmenta el texto y genera el índice FAISS con embeddings.
+- `chatbot.py`: Permite hacer preguntas y recuperar los fragmentos más relevantes.
+- `fragmentos.pkl`: Fragmentos generados.
+- `indice.faiss`: Índice FAISS entrenado.
+- `texto_extraido.txt`: Texto completo limpio extraído del PDF.
+
+#Herramientas usadas
+
+- `Python`
+- `sentence-transformers`
+- `FAISS`
+- `PyMuPDF` (`fitz`)
+- `pickle`
+
+# Cómo correr el sistema
+
+1. Ejecuta `extraer_texto.py` para extraer y limpiar el texto.
+2. Ejecuta `crear_indice.py` para generar el índice FAISS.
+3. Ejecuta `chatbot.py` para hacer preguntas.
+
+#Qué aprendí
+
+Aprendí a:
+- Usar modelos de `sentence-transformers` para embeddings semánticos.
+- Crear un índice FAISS para búsqueda de texto.
+- Automatizar procesos con scripts en Python.
+- Estructurar un proyecto real de recuperación de información.
